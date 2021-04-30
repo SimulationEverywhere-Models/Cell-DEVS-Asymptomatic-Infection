@@ -1,0 +1,4904 @@
+[logfiles]
+ParallelRoot : results/result.log00 
+top : results/result.log4902 
+area : results/result.log01 
+area(0,0) : results/result.log02 
+area(0,1) : results/result.log03 
+area(0,2) : results/result.log04 
+area(0,3) : results/result.log05 
+area(0,4) : results/result.log06 
+area(0,5) : results/result.log07 
+area(0,6) : results/result.log08 
+area(0,7) : results/result.log09 
+area(0,8) : results/result.log10 
+area(0,9) : results/result.log11 
+area(0,10) : results/result.log12 
+area(0,11) : results/result.log13 
+area(0,12) : results/result.log14 
+area(0,13) : results/result.log15 
+area(0,14) : results/result.log16 
+area(0,15) : results/result.log17 
+area(0,16) : results/result.log18 
+area(0,17) : results/result.log19 
+area(0,18) : results/result.log20 
+area(0,19) : results/result.log21 
+area(0,20) : results/result.log22 
+area(0,21) : results/result.log23 
+area(0,22) : results/result.log24 
+area(0,23) : results/result.log25 
+area(0,24) : results/result.log26 
+area(0,25) : results/result.log27 
+area(0,26) : results/result.log28 
+area(0,27) : results/result.log29 
+area(0,28) : results/result.log30 
+area(0,29) : results/result.log31 
+area(0,30) : results/result.log32 
+area(0,31) : results/result.log33 
+area(0,32) : results/result.log34 
+area(0,33) : results/result.log35 
+area(0,34) : results/result.log36 
+area(0,35) : results/result.log37 
+area(0,36) : results/result.log38 
+area(0,37) : results/result.log39 
+area(0,38) : results/result.log40 
+area(0,39) : results/result.log41 
+area(0,40) : results/result.log42 
+area(0,41) : results/result.log43 
+area(0,42) : results/result.log44 
+area(0,43) : results/result.log45 
+area(0,44) : results/result.log46 
+area(0,45) : results/result.log47 
+area(0,46) : results/result.log48 
+area(0,47) : results/result.log49 
+area(0,48) : results/result.log50 
+area(0,49) : results/result.log51 
+area(0,50) : results/result.log52 
+area(0,51) : results/result.log53 
+area(0,52) : results/result.log54 
+area(0,53) : results/result.log55 
+area(0,54) : results/result.log56 
+area(0,55) : results/result.log57 
+area(0,56) : results/result.log58 
+area(0,57) : results/result.log59 
+area(0,58) : results/result.log60 
+area(0,59) : results/result.log61 
+area(0,60) : results/result.log62 
+area(0,61) : results/result.log63 
+area(0,62) : results/result.log64 
+area(0,63) : results/result.log65 
+area(0,64) : results/result.log66 
+area(0,65) : results/result.log67 
+area(0,66) : results/result.log68 
+area(0,67) : results/result.log69 
+area(0,68) : results/result.log70 
+area(0,69) : results/result.log71 
+area(1,0) : results/result.log72 
+area(1,1) : results/result.log73 
+area(1,2) : results/result.log74 
+area(1,3) : results/result.log75 
+area(1,4) : results/result.log76 
+area(1,5) : results/result.log77 
+area(1,6) : results/result.log78 
+area(1,7) : results/result.log79 
+area(1,8) : results/result.log80 
+area(1,9) : results/result.log81 
+area(1,10) : results/result.log82 
+area(1,11) : results/result.log83 
+area(1,12) : results/result.log84 
+area(1,13) : results/result.log85 
+area(1,14) : results/result.log86 
+area(1,15) : results/result.log87 
+area(1,16) : results/result.log88 
+area(1,17) : results/result.log89 
+area(1,18) : results/result.log90 
+area(1,19) : results/result.log91 
+area(1,20) : results/result.log92 
+area(1,21) : results/result.log93 
+area(1,22) : results/result.log94 
+area(1,23) : results/result.log95 
+area(1,24) : results/result.log96 
+area(1,25) : results/result.log97 
+area(1,26) : results/result.log98 
+area(1,27) : results/result.log99 
+area(1,28) : results/result.log100 
+area(1,29) : results/result.log101 
+area(1,30) : results/result.log102 
+area(1,31) : results/result.log103 
+area(1,32) : results/result.log104 
+area(1,33) : results/result.log105 
+area(1,34) : results/result.log106 
+area(1,35) : results/result.log107 
+area(1,36) : results/result.log108 
+area(1,37) : results/result.log109 
+area(1,38) : results/result.log110 
+area(1,39) : results/result.log111 
+area(1,40) : results/result.log112 
+area(1,41) : results/result.log113 
+area(1,42) : results/result.log114 
+area(1,43) : results/result.log115 
+area(1,44) : results/result.log116 
+area(1,45) : results/result.log117 
+area(1,46) : results/result.log118 
+area(1,47) : results/result.log119 
+area(1,48) : results/result.log120 
+area(1,49) : results/result.log121 
+area(1,50) : results/result.log122 
+area(1,51) : results/result.log123 
+area(1,52) : results/result.log124 
+area(1,53) : results/result.log125 
+area(1,54) : results/result.log126 
+area(1,55) : results/result.log127 
+area(1,56) : results/result.log128 
+area(1,57) : results/result.log129 
+area(1,58) : results/result.log130 
+area(1,59) : results/result.log131 
+area(1,60) : results/result.log132 
+area(1,61) : results/result.log133 
+area(1,62) : results/result.log134 
+area(1,63) : results/result.log135 
+area(1,64) : results/result.log136 
+area(1,65) : results/result.log137 
+area(1,66) : results/result.log138 
+area(1,67) : results/result.log139 
+area(1,68) : results/result.log140 
+area(1,69) : results/result.log141 
+area(2,0) : results/result.log142 
+area(2,1) : results/result.log143 
+area(2,2) : results/result.log144 
+area(2,3) : results/result.log145 
+area(2,4) : results/result.log146 
+area(2,5) : results/result.log147 
+area(2,6) : results/result.log148 
+area(2,7) : results/result.log149 
+area(2,8) : results/result.log150 
+area(2,9) : results/result.log151 
+area(2,10) : results/result.log152 
+area(2,11) : results/result.log153 
+area(2,12) : results/result.log154 
+area(2,13) : results/result.log155 
+area(2,14) : results/result.log156 
+area(2,15) : results/result.log157 
+area(2,16) : results/result.log158 
+area(2,17) : results/result.log159 
+area(2,18) : results/result.log160 
+area(2,19) : results/result.log161 
+area(2,20) : results/result.log162 
+area(2,21) : results/result.log163 
+area(2,22) : results/result.log164 
+area(2,23) : results/result.log165 
+area(2,24) : results/result.log166 
+area(2,25) : results/result.log167 
+area(2,26) : results/result.log168 
+area(2,27) : results/result.log169 
+area(2,28) : results/result.log170 
+area(2,29) : results/result.log171 
+area(2,30) : results/result.log172 
+area(2,31) : results/result.log173 
+area(2,32) : results/result.log174 
+area(2,33) : results/result.log175 
+area(2,34) : results/result.log176 
+area(2,35) : results/result.log177 
+area(2,36) : results/result.log178 
+area(2,37) : results/result.log179 
+area(2,38) : results/result.log180 
+area(2,39) : results/result.log181 
+area(2,40) : results/result.log182 
+area(2,41) : results/result.log183 
+area(2,42) : results/result.log184 
+area(2,43) : results/result.log185 
+area(2,44) : results/result.log186 
+area(2,45) : results/result.log187 
+area(2,46) : results/result.log188 
+area(2,47) : results/result.log189 
+area(2,48) : results/result.log190 
+area(2,49) : results/result.log191 
+area(2,50) : results/result.log192 
+area(2,51) : results/result.log193 
+area(2,52) : results/result.log194 
+area(2,53) : results/result.log195 
+area(2,54) : results/result.log196 
+area(2,55) : results/result.log197 
+area(2,56) : results/result.log198 
+area(2,57) : results/result.log199 
+area(2,58) : results/result.log200 
+area(2,59) : results/result.log201 
+area(2,60) : results/result.log202 
+area(2,61) : results/result.log203 
+area(2,62) : results/result.log204 
+area(2,63) : results/result.log205 
+area(2,64) : results/result.log206 
+area(2,65) : results/result.log207 
+area(2,66) : results/result.log208 
+area(2,67) : results/result.log209 
+area(2,68) : results/result.log210 
+area(2,69) : results/result.log211 
+area(3,0) : results/result.log212 
+area(3,1) : results/result.log213 
+area(3,2) : results/result.log214 
+area(3,3) : results/result.log215 
+area(3,4) : results/result.log216 
+area(3,5) : results/result.log217 
+area(3,6) : results/result.log218 
+area(3,7) : results/result.log219 
+area(3,8) : results/result.log220 
+area(3,9) : results/result.log221 
+area(3,10) : results/result.log222 
+area(3,11) : results/result.log223 
+area(3,12) : results/result.log224 
+area(3,13) : results/result.log225 
+area(3,14) : results/result.log226 
+area(3,15) : results/result.log227 
+area(3,16) : results/result.log228 
+area(3,17) : results/result.log229 
+area(3,18) : results/result.log230 
+area(3,19) : results/result.log231 
+area(3,20) : results/result.log232 
+area(3,21) : results/result.log233 
+area(3,22) : results/result.log234 
+area(3,23) : results/result.log235 
+area(3,24) : results/result.log236 
+area(3,25) : results/result.log237 
+area(3,26) : results/result.log238 
+area(3,27) : results/result.log239 
+area(3,28) : results/result.log240 
+area(3,29) : results/result.log241 
+area(3,30) : results/result.log242 
+area(3,31) : results/result.log243 
+area(3,32) : results/result.log244 
+area(3,33) : results/result.log245 
+area(3,34) : results/result.log246 
+area(3,35) : results/result.log247 
+area(3,36) : results/result.log248 
+area(3,37) : results/result.log249 
+area(3,38) : results/result.log250 
+area(3,39) : results/result.log251 
+area(3,40) : results/result.log252 
+area(3,41) : results/result.log253 
+area(3,42) : results/result.log254 
+area(3,43) : results/result.log255 
+area(3,44) : results/result.log256 
+area(3,45) : results/result.log257 
+area(3,46) : results/result.log258 
+area(3,47) : results/result.log259 
+area(3,48) : results/result.log260 
+area(3,49) : results/result.log261 
+area(3,50) : results/result.log262 
+area(3,51) : results/result.log263 
+area(3,52) : results/result.log264 
+area(3,53) : results/result.log265 
+area(3,54) : results/result.log266 
+area(3,55) : results/result.log267 
+area(3,56) : results/result.log268 
+area(3,57) : results/result.log269 
+area(3,58) : results/result.log270 
+area(3,59) : results/result.log271 
+area(3,60) : results/result.log272 
+area(3,61) : results/result.log273 
+area(3,62) : results/result.log274 
+area(3,63) : results/result.log275 
+area(3,64) : results/result.log276 
+area(3,65) : results/result.log277 
+area(3,66) : results/result.log278 
+area(3,67) : results/result.log279 
+area(3,68) : results/result.log280 
+area(3,69) : results/result.log281 
+area(4,0) : results/result.log282 
+area(4,1) : results/result.log283 
+area(4,2) : results/result.log284 
+area(4,3) : results/result.log285 
+area(4,4) : results/result.log286 
+area(4,5) : results/result.log287 
+area(4,6) : results/result.log288 
+area(4,7) : results/result.log289 
+area(4,8) : results/result.log290 
+area(4,9) : results/result.log291 
+area(4,10) : results/result.log292 
+area(4,11) : results/result.log293 
+area(4,12) : results/result.log294 
+area(4,13) : results/result.log295 
+area(4,14) : results/result.log296 
+area(4,15) : results/result.log297 
+area(4,16) : results/result.log298 
+area(4,17) : results/result.log299 
+area(4,18) : results/result.log300 
+area(4,19) : results/result.log301 
+area(4,20) : results/result.log302 
+area(4,21) : results/result.log303 
+area(4,22) : results/result.log304 
+area(4,23) : results/result.log305 
+area(4,24) : results/result.log306 
+area(4,25) : results/result.log307 
+area(4,26) : results/result.log308 
+area(4,27) : results/result.log309 
+area(4,28) : results/result.log310 
+area(4,29) : results/result.log311 
+area(4,30) : results/result.log312 
+area(4,31) : results/result.log313 
+area(4,32) : results/result.log314 
+area(4,33) : results/result.log315 
+area(4,34) : results/result.log316 
+area(4,35) : results/result.log317 
+area(4,36) : results/result.log318 
+area(4,37) : results/result.log319 
+area(4,38) : results/result.log320 
+area(4,39) : results/result.log321 
+area(4,40) : results/result.log322 
+area(4,41) : results/result.log323 
+area(4,42) : results/result.log324 
+area(4,43) : results/result.log325 
+area(4,44) : results/result.log326 
+area(4,45) : results/result.log327 
+area(4,46) : results/result.log328 
+area(4,47) : results/result.log329 
+area(4,48) : results/result.log330 
+area(4,49) : results/result.log331 
+area(4,50) : results/result.log332 
+area(4,51) : results/result.log333 
+area(4,52) : results/result.log334 
+area(4,53) : results/result.log335 
+area(4,54) : results/result.log336 
+area(4,55) : results/result.log337 
+area(4,56) : results/result.log338 
+area(4,57) : results/result.log339 
+area(4,58) : results/result.log340 
+area(4,59) : results/result.log341 
+area(4,60) : results/result.log342 
+area(4,61) : results/result.log343 
+area(4,62) : results/result.log344 
+area(4,63) : results/result.log345 
+area(4,64) : results/result.log346 
+area(4,65) : results/result.log347 
+area(4,66) : results/result.log348 
+area(4,67) : results/result.log349 
+area(4,68) : results/result.log350 
+area(4,69) : results/result.log351 
+area(5,0) : results/result.log352 
+area(5,1) : results/result.log353 
+area(5,2) : results/result.log354 
+area(5,3) : results/result.log355 
+area(5,4) : results/result.log356 
+area(5,5) : results/result.log357 
+area(5,6) : results/result.log358 
+area(5,7) : results/result.log359 
+area(5,8) : results/result.log360 
+area(5,9) : results/result.log361 
+area(5,10) : results/result.log362 
+area(5,11) : results/result.log363 
+area(5,12) : results/result.log364 
+area(5,13) : results/result.log365 
+area(5,14) : results/result.log366 
+area(5,15) : results/result.log367 
+area(5,16) : results/result.log368 
+area(5,17) : results/result.log369 
+area(5,18) : results/result.log370 
+area(5,19) : results/result.log371 
+area(5,20) : results/result.log372 
+area(5,21) : results/result.log373 
+area(5,22) : results/result.log374 
+area(5,23) : results/result.log375 
+area(5,24) : results/result.log376 
+area(5,25) : results/result.log377 
+area(5,26) : results/result.log378 
+area(5,27) : results/result.log379 
+area(5,28) : results/result.log380 
+area(5,29) : results/result.log381 
+area(5,30) : results/result.log382 
+area(5,31) : results/result.log383 
+area(5,32) : results/result.log384 
+area(5,33) : results/result.log385 
+area(5,34) : results/result.log386 
+area(5,35) : results/result.log387 
+area(5,36) : results/result.log388 
+area(5,37) : results/result.log389 
+area(5,38) : results/result.log390 
+area(5,39) : results/result.log391 
+area(5,40) : results/result.log392 
+area(5,41) : results/result.log393 
+area(5,42) : results/result.log394 
+area(5,43) : results/result.log395 
+area(5,44) : results/result.log396 
+area(5,45) : results/result.log397 
+area(5,46) : results/result.log398 
+area(5,47) : results/result.log399 
+area(5,48) : results/result.log400 
+area(5,49) : results/result.log401 
+area(5,50) : results/result.log402 
+area(5,51) : results/result.log403 
+area(5,52) : results/result.log404 
+area(5,53) : results/result.log405 
+area(5,54) : results/result.log406 
+area(5,55) : results/result.log407 
+area(5,56) : results/result.log408 
+area(5,57) : results/result.log409 
+area(5,58) : results/result.log410 
+area(5,59) : results/result.log411 
+area(5,60) : results/result.log412 
+area(5,61) : results/result.log413 
+area(5,62) : results/result.log414 
+area(5,63) : results/result.log415 
+area(5,64) : results/result.log416 
+area(5,65) : results/result.log417 
+area(5,66) : results/result.log418 
+area(5,67) : results/result.log419 
+area(5,68) : results/result.log420 
+area(5,69) : results/result.log421 
+area(6,0) : results/result.log422 
+area(6,1) : results/result.log423 
+area(6,2) : results/result.log424 
+area(6,3) : results/result.log425 
+area(6,4) : results/result.log426 
+area(6,5) : results/result.log427 
+area(6,6) : results/result.log428 
+area(6,7) : results/result.log429 
+area(6,8) : results/result.log430 
+area(6,9) : results/result.log431 
+area(6,10) : results/result.log432 
+area(6,11) : results/result.log433 
+area(6,12) : results/result.log434 
+area(6,13) : results/result.log435 
+area(6,14) : results/result.log436 
+area(6,15) : results/result.log437 
+area(6,16) : results/result.log438 
+area(6,17) : results/result.log439 
+area(6,18) : results/result.log440 
+area(6,19) : results/result.log441 
+area(6,20) : results/result.log442 
+area(6,21) : results/result.log443 
+area(6,22) : results/result.log444 
+area(6,23) : results/result.log445 
+area(6,24) : results/result.log446 
+area(6,25) : results/result.log447 
+area(6,26) : results/result.log448 
+area(6,27) : results/result.log449 
+area(6,28) : results/result.log450 
+area(6,29) : results/result.log451 
+area(6,30) : results/result.log452 
+area(6,31) : results/result.log453 
+area(6,32) : results/result.log454 
+area(6,33) : results/result.log455 
+area(6,34) : results/result.log456 
+area(6,35) : results/result.log457 
+area(6,36) : results/result.log458 
+area(6,37) : results/result.log459 
+area(6,38) : results/result.log460 
+area(6,39) : results/result.log461 
+area(6,40) : results/result.log462 
+area(6,41) : results/result.log463 
+area(6,42) : results/result.log464 
+area(6,43) : results/result.log465 
+area(6,44) : results/result.log466 
+area(6,45) : results/result.log467 
+area(6,46) : results/result.log468 
+area(6,47) : results/result.log469 
+area(6,48) : results/result.log470 
+area(6,49) : results/result.log471 
+area(6,50) : results/result.log472 
+area(6,51) : results/result.log473 
+area(6,52) : results/result.log474 
+area(6,53) : results/result.log475 
+area(6,54) : results/result.log476 
+area(6,55) : results/result.log477 
+area(6,56) : results/result.log478 
+area(6,57) : results/result.log479 
+area(6,58) : results/result.log480 
+area(6,59) : results/result.log481 
+area(6,60) : results/result.log482 
+area(6,61) : results/result.log483 
+area(6,62) : results/result.log484 
+area(6,63) : results/result.log485 
+area(6,64) : results/result.log486 
+area(6,65) : results/result.log487 
+area(6,66) : results/result.log488 
+area(6,67) : results/result.log489 
+area(6,68) : results/result.log490 
+area(6,69) : results/result.log491 
+area(7,0) : results/result.log492 
+area(7,1) : results/result.log493 
+area(7,2) : results/result.log494 
+area(7,3) : results/result.log495 
+area(7,4) : results/result.log496 
+area(7,5) : results/result.log497 
+area(7,6) : results/result.log498 
+area(7,7) : results/result.log499 
+area(7,8) : results/result.log500 
+area(7,9) : results/result.log501 
+area(7,10) : results/result.log502 
+area(7,11) : results/result.log503 
+area(7,12) : results/result.log504 
+area(7,13) : results/result.log505 
+area(7,14) : results/result.log506 
+area(7,15) : results/result.log507 
+area(7,16) : results/result.log508 
+area(7,17) : results/result.log509 
+area(7,18) : results/result.log510 
+area(7,19) : results/result.log511 
+area(7,20) : results/result.log512 
+area(7,21) : results/result.log513 
+area(7,22) : results/result.log514 
+area(7,23) : results/result.log515 
+area(7,24) : results/result.log516 
+area(7,25) : results/result.log517 
+area(7,26) : results/result.log518 
+area(7,27) : results/result.log519 
+area(7,28) : results/result.log520 
+area(7,29) : results/result.log521 
+area(7,30) : results/result.log522 
+area(7,31) : results/result.log523 
+area(7,32) : results/result.log524 
+area(7,33) : results/result.log525 
+area(7,34) : results/result.log526 
+area(7,35) : results/result.log527 
+area(7,36) : results/result.log528 
+area(7,37) : results/result.log529 
+area(7,38) : results/result.log530 
+area(7,39) : results/result.log531 
+area(7,40) : results/result.log532 
+area(7,41) : results/result.log533 
+area(7,42) : results/result.log534 
+area(7,43) : results/result.log535 
+area(7,44) : results/result.log536 
+area(7,45) : results/result.log537 
+area(7,46) : results/result.log538 
+area(7,47) : results/result.log539 
+area(7,48) : results/result.log540 
+area(7,49) : results/result.log541 
+area(7,50) : results/result.log542 
+area(7,51) : results/result.log543 
+area(7,52) : results/result.log544 
+area(7,53) : results/result.log545 
+area(7,54) : results/result.log546 
+area(7,55) : results/result.log547 
+area(7,56) : results/result.log548 
+area(7,57) : results/result.log549 
+area(7,58) : results/result.log550 
+area(7,59) : results/result.log551 
+area(7,60) : results/result.log552 
+area(7,61) : results/result.log553 
+area(7,62) : results/result.log554 
+area(7,63) : results/result.log555 
+area(7,64) : results/result.log556 
+area(7,65) : results/result.log557 
+area(7,66) : results/result.log558 
+area(7,67) : results/result.log559 
+area(7,68) : results/result.log560 
+area(7,69) : results/result.log561 
+area(8,0) : results/result.log562 
+area(8,1) : results/result.log563 
+area(8,2) : results/result.log564 
+area(8,3) : results/result.log565 
+area(8,4) : results/result.log566 
+area(8,5) : results/result.log567 
+area(8,6) : results/result.log568 
+area(8,7) : results/result.log569 
+area(8,8) : results/result.log570 
+area(8,9) : results/result.log571 
+area(8,10) : results/result.log572 
+area(8,11) : results/result.log573 
+area(8,12) : results/result.log574 
+area(8,13) : results/result.log575 
+area(8,14) : results/result.log576 
+area(8,15) : results/result.log577 
+area(8,16) : results/result.log578 
+area(8,17) : results/result.log579 
+area(8,18) : results/result.log580 
+area(8,19) : results/result.log581 
+area(8,20) : results/result.log582 
+area(8,21) : results/result.log583 
+area(8,22) : results/result.log584 
+area(8,23) : results/result.log585 
+area(8,24) : results/result.log586 
+area(8,25) : results/result.log587 
+area(8,26) : results/result.log588 
+area(8,27) : results/result.log589 
+area(8,28) : results/result.log590 
+area(8,29) : results/result.log591 
+area(8,30) : results/result.log592 
+area(8,31) : results/result.log593 
+area(8,32) : results/result.log594 
+area(8,33) : results/result.log595 
+area(8,34) : results/result.log596 
+area(8,35) : results/result.log597 
+area(8,36) : results/result.log598 
+area(8,37) : results/result.log599 
+area(8,38) : results/result.log600 
+area(8,39) : results/result.log601 
+area(8,40) : results/result.log602 
+area(8,41) : results/result.log603 
+area(8,42) : results/result.log604 
+area(8,43) : results/result.log605 
+area(8,44) : results/result.log606 
+area(8,45) : results/result.log607 
+area(8,46) : results/result.log608 
+area(8,47) : results/result.log609 
+area(8,48) : results/result.log610 
+area(8,49) : results/result.log611 
+area(8,50) : results/result.log612 
+area(8,51) : results/result.log613 
+area(8,52) : results/result.log614 
+area(8,53) : results/result.log615 
+area(8,54) : results/result.log616 
+area(8,55) : results/result.log617 
+area(8,56) : results/result.log618 
+area(8,57) : results/result.log619 
+area(8,58) : results/result.log620 
+area(8,59) : results/result.log621 
+area(8,60) : results/result.log622 
+area(8,61) : results/result.log623 
+area(8,62) : results/result.log624 
+area(8,63) : results/result.log625 
+area(8,64) : results/result.log626 
+area(8,65) : results/result.log627 
+area(8,66) : results/result.log628 
+area(8,67) : results/result.log629 
+area(8,68) : results/result.log630 
+area(8,69) : results/result.log631 
+area(9,0) : results/result.log632 
+area(9,1) : results/result.log633 
+area(9,2) : results/result.log634 
+area(9,3) : results/result.log635 
+area(9,4) : results/result.log636 
+area(9,5) : results/result.log637 
+area(9,6) : results/result.log638 
+area(9,7) : results/result.log639 
+area(9,8) : results/result.log640 
+area(9,9) : results/result.log641 
+area(9,10) : results/result.log642 
+area(9,11) : results/result.log643 
+area(9,12) : results/result.log644 
+area(9,13) : results/result.log645 
+area(9,14) : results/result.log646 
+area(9,15) : results/result.log647 
+area(9,16) : results/result.log648 
+area(9,17) : results/result.log649 
+area(9,18) : results/result.log650 
+area(9,19) : results/result.log651 
+area(9,20) : results/result.log652 
+area(9,21) : results/result.log653 
+area(9,22) : results/result.log654 
+area(9,23) : results/result.log655 
+area(9,24) : results/result.log656 
+area(9,25) : results/result.log657 
+area(9,26) : results/result.log658 
+area(9,27) : results/result.log659 
+area(9,28) : results/result.log660 
+area(9,29) : results/result.log661 
+area(9,30) : results/result.log662 
+area(9,31) : results/result.log663 
+area(9,32) : results/result.log664 
+area(9,33) : results/result.log665 
+area(9,34) : results/result.log666 
+area(9,35) : results/result.log667 
+area(9,36) : results/result.log668 
+area(9,37) : results/result.log669 
+area(9,38) : results/result.log670 
+area(9,39) : results/result.log671 
+area(9,40) : results/result.log672 
+area(9,41) : results/result.log673 
+area(9,42) : results/result.log674 
+area(9,43) : results/result.log675 
+area(9,44) : results/result.log676 
+area(9,45) : results/result.log677 
+area(9,46) : results/result.log678 
+area(9,47) : results/result.log679 
+area(9,48) : results/result.log680 
+area(9,49) : results/result.log681 
+area(9,50) : results/result.log682 
+area(9,51) : results/result.log683 
+area(9,52) : results/result.log684 
+area(9,53) : results/result.log685 
+area(9,54) : results/result.log686 
+area(9,55) : results/result.log687 
+area(9,56) : results/result.log688 
+area(9,57) : results/result.log689 
+area(9,58) : results/result.log690 
+area(9,59) : results/result.log691 
+area(9,60) : results/result.log692 
+area(9,61) : results/result.log693 
+area(9,62) : results/result.log694 
+area(9,63) : results/result.log695 
+area(9,64) : results/result.log696 
+area(9,65) : results/result.log697 
+area(9,66) : results/result.log698 
+area(9,67) : results/result.log699 
+area(9,68) : results/result.log700 
+area(9,69) : results/result.log701 
+area(10,0) : results/result.log702 
+area(10,1) : results/result.log703 
+area(10,2) : results/result.log704 
+area(10,3) : results/result.log705 
+area(10,4) : results/result.log706 
+area(10,5) : results/result.log707 
+area(10,6) : results/result.log708 
+area(10,7) : results/result.log709 
+area(10,8) : results/result.log710 
+area(10,9) : results/result.log711 
+area(10,10) : results/result.log712 
+area(10,11) : results/result.log713 
+area(10,12) : results/result.log714 
+area(10,13) : results/result.log715 
+area(10,14) : results/result.log716 
+area(10,15) : results/result.log717 
+area(10,16) : results/result.log718 
+area(10,17) : results/result.log719 
+area(10,18) : results/result.log720 
+area(10,19) : results/result.log721 
+area(10,20) : results/result.log722 
+area(10,21) : results/result.log723 
+area(10,22) : results/result.log724 
+area(10,23) : results/result.log725 
+area(10,24) : results/result.log726 
+area(10,25) : results/result.log727 
+area(10,26) : results/result.log728 
+area(10,27) : results/result.log729 
+area(10,28) : results/result.log730 
+area(10,29) : results/result.log731 
+area(10,30) : results/result.log732 
+area(10,31) : results/result.log733 
+area(10,32) : results/result.log734 
+area(10,33) : results/result.log735 
+area(10,34) : results/result.log736 
+area(10,35) : results/result.log737 
+area(10,36) : results/result.log738 
+area(10,37) : results/result.log739 
+area(10,38) : results/result.log740 
+area(10,39) : results/result.log741 
+area(10,40) : results/result.log742 
+area(10,41) : results/result.log743 
+area(10,42) : results/result.log744 
+area(10,43) : results/result.log745 
+area(10,44) : results/result.log746 
+area(10,45) : results/result.log747 
+area(10,46) : results/result.log748 
+area(10,47) : results/result.log749 
+area(10,48) : results/result.log750 
+area(10,49) : results/result.log751 
+area(10,50) : results/result.log752 
+area(10,51) : results/result.log753 
+area(10,52) : results/result.log754 
+area(10,53) : results/result.log755 
+area(10,54) : results/result.log756 
+area(10,55) : results/result.log757 
+area(10,56) : results/result.log758 
+area(10,57) : results/result.log759 
+area(10,58) : results/result.log760 
+area(10,59) : results/result.log761 
+area(10,60) : results/result.log762 
+area(10,61) : results/result.log763 
+area(10,62) : results/result.log764 
+area(10,63) : results/result.log765 
+area(10,64) : results/result.log766 
+area(10,65) : results/result.log767 
+area(10,66) : results/result.log768 
+area(10,67) : results/result.log769 
+area(10,68) : results/result.log770 
+area(10,69) : results/result.log771 
+area(11,0) : results/result.log772 
+area(11,1) : results/result.log773 
+area(11,2) : results/result.log774 
+area(11,3) : results/result.log775 
+area(11,4) : results/result.log776 
+area(11,5) : results/result.log777 
+area(11,6) : results/result.log778 
+area(11,7) : results/result.log779 
+area(11,8) : results/result.log780 
+area(11,9) : results/result.log781 
+area(11,10) : results/result.log782 
+area(11,11) : results/result.log783 
+area(11,12) : results/result.log784 
+area(11,13) : results/result.log785 
+area(11,14) : results/result.log786 
+area(11,15) : results/result.log787 
+area(11,16) : results/result.log788 
+area(11,17) : results/result.log789 
+area(11,18) : results/result.log790 
+area(11,19) : results/result.log791 
+area(11,20) : results/result.log792 
+area(11,21) : results/result.log793 
+area(11,22) : results/result.log794 
+area(11,23) : results/result.log795 
+area(11,24) : results/result.log796 
+area(11,25) : results/result.log797 
+area(11,26) : results/result.log798 
+area(11,27) : results/result.log799 
+area(11,28) : results/result.log800 
+area(11,29) : results/result.log801 
+area(11,30) : results/result.log802 
+area(11,31) : results/result.log803 
+area(11,32) : results/result.log804 
+area(11,33) : results/result.log805 
+area(11,34) : results/result.log806 
+area(11,35) : results/result.log807 
+area(11,36) : results/result.log808 
+area(11,37) : results/result.log809 
+area(11,38) : results/result.log810 
+area(11,39) : results/result.log811 
+area(11,40) : results/result.log812 
+area(11,41) : results/result.log813 
+area(11,42) : results/result.log814 
+area(11,43) : results/result.log815 
+area(11,44) : results/result.log816 
+area(11,45) : results/result.log817 
+area(11,46) : results/result.log818 
+area(11,47) : results/result.log819 
+area(11,48) : results/result.log820 
+area(11,49) : results/result.log821 
+area(11,50) : results/result.log822 
+area(11,51) : results/result.log823 
+area(11,52) : results/result.log824 
+area(11,53) : results/result.log825 
+area(11,54) : results/result.log826 
+area(11,55) : results/result.log827 
+area(11,56) : results/result.log828 
+area(11,57) : results/result.log829 
+area(11,58) : results/result.log830 
+area(11,59) : results/result.log831 
+area(11,60) : results/result.log832 
+area(11,61) : results/result.log833 
+area(11,62) : results/result.log834 
+area(11,63) : results/result.log835 
+area(11,64) : results/result.log836 
+area(11,65) : results/result.log837 
+area(11,66) : results/result.log838 
+area(11,67) : results/result.log839 
+area(11,68) : results/result.log840 
+area(11,69) : results/result.log841 
+area(12,0) : results/result.log842 
+area(12,1) : results/result.log843 
+area(12,2) : results/result.log844 
+area(12,3) : results/result.log845 
+area(12,4) : results/result.log846 
+area(12,5) : results/result.log847 
+area(12,6) : results/result.log848 
+area(12,7) : results/result.log849 
+area(12,8) : results/result.log850 
+area(12,9) : results/result.log851 
+area(12,10) : results/result.log852 
+area(12,11) : results/result.log853 
+area(12,12) : results/result.log854 
+area(12,13) : results/result.log855 
+area(12,14) : results/result.log856 
+area(12,15) : results/result.log857 
+area(12,16) : results/result.log858 
+area(12,17) : results/result.log859 
+area(12,18) : results/result.log860 
+area(12,19) : results/result.log861 
+area(12,20) : results/result.log862 
+area(12,21) : results/result.log863 
+area(12,22) : results/result.log864 
+area(12,23) : results/result.log865 
+area(12,24) : results/result.log866 
+area(12,25) : results/result.log867 
+area(12,26) : results/result.log868 
+area(12,27) : results/result.log869 
+area(12,28) : results/result.log870 
+area(12,29) : results/result.log871 
+area(12,30) : results/result.log872 
+area(12,31) : results/result.log873 
+area(12,32) : results/result.log874 
+area(12,33) : results/result.log875 
+area(12,34) : results/result.log876 
+area(12,35) : results/result.log877 
+area(12,36) : results/result.log878 
+area(12,37) : results/result.log879 
+area(12,38) : results/result.log880 
+area(12,39) : results/result.log881 
+area(12,40) : results/result.log882 
+area(12,41) : results/result.log883 
+area(12,42) : results/result.log884 
+area(12,43) : results/result.log885 
+area(12,44) : results/result.log886 
+area(12,45) : results/result.log887 
+area(12,46) : results/result.log888 
+area(12,47) : results/result.log889 
+area(12,48) : results/result.log890 
+area(12,49) : results/result.log891 
+area(12,50) : results/result.log892 
+area(12,51) : results/result.log893 
+area(12,52) : results/result.log894 
+area(12,53) : results/result.log895 
+area(12,54) : results/result.log896 
+area(12,55) : results/result.log897 
+area(12,56) : results/result.log898 
+area(12,57) : results/result.log899 
+area(12,58) : results/result.log900 
+area(12,59) : results/result.log901 
+area(12,60) : results/result.log902 
+area(12,61) : results/result.log903 
+area(12,62) : results/result.log904 
+area(12,63) : results/result.log905 
+area(12,64) : results/result.log906 
+area(12,65) : results/result.log907 
+area(12,66) : results/result.log908 
+area(12,67) : results/result.log909 
+area(12,68) : results/result.log910 
+area(12,69) : results/result.log911 
+area(13,0) : results/result.log912 
+area(13,1) : results/result.log913 
+area(13,2) : results/result.log914 
+area(13,3) : results/result.log915 
+area(13,4) : results/result.log916 
+area(13,5) : results/result.log917 
+area(13,6) : results/result.log918 
+area(13,7) : results/result.log919 
+area(13,8) : results/result.log920 
+area(13,9) : results/result.log921 
+area(13,10) : results/result.log922 
+area(13,11) : results/result.log923 
+area(13,12) : results/result.log924 
+area(13,13) : results/result.log925 
+area(13,14) : results/result.log926 
+area(13,15) : results/result.log927 
+area(13,16) : results/result.log928 
+area(13,17) : results/result.log929 
+area(13,18) : results/result.log930 
+area(13,19) : results/result.log931 
+area(13,20) : results/result.log932 
+area(13,21) : results/result.log933 
+area(13,22) : results/result.log934 
+area(13,23) : results/result.log935 
+area(13,24) : results/result.log936 
+area(13,25) : results/result.log937 
+area(13,26) : results/result.log938 
+area(13,27) : results/result.log939 
+area(13,28) : results/result.log940 
+area(13,29) : results/result.log941 
+area(13,30) : results/result.log942 
+area(13,31) : results/result.log943 
+area(13,32) : results/result.log944 
+area(13,33) : results/result.log945 
+area(13,34) : results/result.log946 
+area(13,35) : results/result.log947 
+area(13,36) : results/result.log948 
+area(13,37) : results/result.log949 
+area(13,38) : results/result.log950 
+area(13,39) : results/result.log951 
+area(13,40) : results/result.log952 
+area(13,41) : results/result.log953 
+area(13,42) : results/result.log954 
+area(13,43) : results/result.log955 
+area(13,44) : results/result.log956 
+area(13,45) : results/result.log957 
+area(13,46) : results/result.log958 
+area(13,47) : results/result.log959 
+area(13,48) : results/result.log960 
+area(13,49) : results/result.log961 
+area(13,50) : results/result.log962 
+area(13,51) : results/result.log963 
+area(13,52) : results/result.log964 
+area(13,53) : results/result.log965 
+area(13,54) : results/result.log966 
+area(13,55) : results/result.log967 
+area(13,56) : results/result.log968 
+area(13,57) : results/result.log969 
+area(13,58) : results/result.log970 
+area(13,59) : results/result.log971 
+area(13,60) : results/result.log972 
+area(13,61) : results/result.log973 
+area(13,62) : results/result.log974 
+area(13,63) : results/result.log975 
+area(13,64) : results/result.log976 
+area(13,65) : results/result.log977 
+area(13,66) : results/result.log978 
+area(13,67) : results/result.log979 
+area(13,68) : results/result.log980 
+area(13,69) : results/result.log981 
+area(14,0) : results/result.log982 
+area(14,1) : results/result.log983 
+area(14,2) : results/result.log984 
+area(14,3) : results/result.log985 
+area(14,4) : results/result.log986 
+area(14,5) : results/result.log987 
+area(14,6) : results/result.log988 
+area(14,7) : results/result.log989 
+area(14,8) : results/result.log990 
+area(14,9) : results/result.log991 
+area(14,10) : results/result.log992 
+area(14,11) : results/result.log993 
+area(14,12) : results/result.log994 
+area(14,13) : results/result.log995 
+area(14,14) : results/result.log996 
+area(14,15) : results/result.log997 
+area(14,16) : results/result.log998 
+area(14,17) : results/result.log999 
+area(14,18) : results/result.log1000 
+area(14,19) : results/result.log1001 
+area(14,20) : results/result.log1002 
+area(14,21) : results/result.log1003 
+area(14,22) : results/result.log1004 
+area(14,23) : results/result.log1005 
+area(14,24) : results/result.log1006 
+area(14,25) : results/result.log1007 
+area(14,26) : results/result.log1008 
+area(14,27) : results/result.log1009 
+area(14,28) : results/result.log1010 
+area(14,29) : results/result.log1011 
+area(14,30) : results/result.log1012 
+area(14,31) : results/result.log1013 
+area(14,32) : results/result.log1014 
+area(14,33) : results/result.log1015 
+area(14,34) : results/result.log1016 
+area(14,35) : results/result.log1017 
+area(14,36) : results/result.log1018 
+area(14,37) : results/result.log1019 
+area(14,38) : results/result.log1020 
+area(14,39) : results/result.log1021 
+area(14,40) : results/result.log1022 
+area(14,41) : results/result.log1023 
+area(14,42) : results/result.log1024 
+area(14,43) : results/result.log1025 
+area(14,44) : results/result.log1026 
+area(14,45) : results/result.log1027 
+area(14,46) : results/result.log1028 
+area(14,47) : results/result.log1029 
+area(14,48) : results/result.log1030 
+area(14,49) : results/result.log1031 
+area(14,50) : results/result.log1032 
+area(14,51) : results/result.log1033 
+area(14,52) : results/result.log1034 
+area(14,53) : results/result.log1035 
+area(14,54) : results/result.log1036 
+area(14,55) : results/result.log1037 
+area(14,56) : results/result.log1038 
+area(14,57) : results/result.log1039 
+area(14,58) : results/result.log1040 
+area(14,59) : results/result.log1041 
+area(14,60) : results/result.log1042 
+area(14,61) : results/result.log1043 
+area(14,62) : results/result.log1044 
+area(14,63) : results/result.log1045 
+area(14,64) : results/result.log1046 
+area(14,65) : results/result.log1047 
+area(14,66) : results/result.log1048 
+area(14,67) : results/result.log1049 
+area(14,68) : results/result.log1050 
+area(14,69) : results/result.log1051 
+area(15,0) : results/result.log1052 
+area(15,1) : results/result.log1053 
+area(15,2) : results/result.log1054 
+area(15,3) : results/result.log1055 
+area(15,4) : results/result.log1056 
+area(15,5) : results/result.log1057 
+area(15,6) : results/result.log1058 
+area(15,7) : results/result.log1059 
+area(15,8) : results/result.log1060 
+area(15,9) : results/result.log1061 
+area(15,10) : results/result.log1062 
+area(15,11) : results/result.log1063 
+area(15,12) : results/result.log1064 
+area(15,13) : results/result.log1065 
+area(15,14) : results/result.log1066 
+area(15,15) : results/result.log1067 
+area(15,16) : results/result.log1068 
+area(15,17) : results/result.log1069 
+area(15,18) : results/result.log1070 
+area(15,19) : results/result.log1071 
+area(15,20) : results/result.log1072 
+area(15,21) : results/result.log1073 
+area(15,22) : results/result.log1074 
+area(15,23) : results/result.log1075 
+area(15,24) : results/result.log1076 
+area(15,25) : results/result.log1077 
+area(15,26) : results/result.log1078 
+area(15,27) : results/result.log1079 
+area(15,28) : results/result.log1080 
+area(15,29) : results/result.log1081 
+area(15,30) : results/result.log1082 
+area(15,31) : results/result.log1083 
+area(15,32) : results/result.log1084 
+area(15,33) : results/result.log1085 
+area(15,34) : results/result.log1086 
+area(15,35) : results/result.log1087 
+area(15,36) : results/result.log1088 
+area(15,37) : results/result.log1089 
+area(15,38) : results/result.log1090 
+area(15,39) : results/result.log1091 
+area(15,40) : results/result.log1092 
+area(15,41) : results/result.log1093 
+area(15,42) : results/result.log1094 
+area(15,43) : results/result.log1095 
+area(15,44) : results/result.log1096 
+area(15,45) : results/result.log1097 
+area(15,46) : results/result.log1098 
+area(15,47) : results/result.log1099 
+area(15,48) : results/result.log1100 
+area(15,49) : results/result.log1101 
+area(15,50) : results/result.log1102 
+area(15,51) : results/result.log1103 
+area(15,52) : results/result.log1104 
+area(15,53) : results/result.log1105 
+area(15,54) : results/result.log1106 
+area(15,55) : results/result.log1107 
+area(15,56) : results/result.log1108 
+area(15,57) : results/result.log1109 
+area(15,58) : results/result.log1110 
+area(15,59) : results/result.log1111 
+area(15,60) : results/result.log1112 
+area(15,61) : results/result.log1113 
+area(15,62) : results/result.log1114 
+area(15,63) : results/result.log1115 
+area(15,64) : results/result.log1116 
+area(15,65) : results/result.log1117 
+area(15,66) : results/result.log1118 
+area(15,67) : results/result.log1119 
+area(15,68) : results/result.log1120 
+area(15,69) : results/result.log1121 
+area(16,0) : results/result.log1122 
+area(16,1) : results/result.log1123 
+area(16,2) : results/result.log1124 
+area(16,3) : results/result.log1125 
+area(16,4) : results/result.log1126 
+area(16,5) : results/result.log1127 
+area(16,6) : results/result.log1128 
+area(16,7) : results/result.log1129 
+area(16,8) : results/result.log1130 
+area(16,9) : results/result.log1131 
+area(16,10) : results/result.log1132 
+area(16,11) : results/result.log1133 
+area(16,12) : results/result.log1134 
+area(16,13) : results/result.log1135 
+area(16,14) : results/result.log1136 
+area(16,15) : results/result.log1137 
+area(16,16) : results/result.log1138 
+area(16,17) : results/result.log1139 
+area(16,18) : results/result.log1140 
+area(16,19) : results/result.log1141 
+area(16,20) : results/result.log1142 
+area(16,21) : results/result.log1143 
+area(16,22) : results/result.log1144 
+area(16,23) : results/result.log1145 
+area(16,24) : results/result.log1146 
+area(16,25) : results/result.log1147 
+area(16,26) : results/result.log1148 
+area(16,27) : results/result.log1149 
+area(16,28) : results/result.log1150 
+area(16,29) : results/result.log1151 
+area(16,30) : results/result.log1152 
+area(16,31) : results/result.log1153 
+area(16,32) : results/result.log1154 
+area(16,33) : results/result.log1155 
+area(16,34) : results/result.log1156 
+area(16,35) : results/result.log1157 
+area(16,36) : results/result.log1158 
+area(16,37) : results/result.log1159 
+area(16,38) : results/result.log1160 
+area(16,39) : results/result.log1161 
+area(16,40) : results/result.log1162 
+area(16,41) : results/result.log1163 
+area(16,42) : results/result.log1164 
+area(16,43) : results/result.log1165 
+area(16,44) : results/result.log1166 
+area(16,45) : results/result.log1167 
+area(16,46) : results/result.log1168 
+area(16,47) : results/result.log1169 
+area(16,48) : results/result.log1170 
+area(16,49) : results/result.log1171 
+area(16,50) : results/result.log1172 
+area(16,51) : results/result.log1173 
+area(16,52) : results/result.log1174 
+area(16,53) : results/result.log1175 
+area(16,54) : results/result.log1176 
+area(16,55) : results/result.log1177 
+area(16,56) : results/result.log1178 
+area(16,57) : results/result.log1179 
+area(16,58) : results/result.log1180 
+area(16,59) : results/result.log1181 
+area(16,60) : results/result.log1182 
+area(16,61) : results/result.log1183 
+area(16,62) : results/result.log1184 
+area(16,63) : results/result.log1185 
+area(16,64) : results/result.log1186 
+area(16,65) : results/result.log1187 
+area(16,66) : results/result.log1188 
+area(16,67) : results/result.log1189 
+area(16,68) : results/result.log1190 
+area(16,69) : results/result.log1191 
+area(17,0) : results/result.log1192 
+area(17,1) : results/result.log1193 
+area(17,2) : results/result.log1194 
+area(17,3) : results/result.log1195 
+area(17,4) : results/result.log1196 
+area(17,5) : results/result.log1197 
+area(17,6) : results/result.log1198 
+area(17,7) : results/result.log1199 
+area(17,8) : results/result.log1200 
+area(17,9) : results/result.log1201 
+area(17,10) : results/result.log1202 
+area(17,11) : results/result.log1203 
+area(17,12) : results/result.log1204 
+area(17,13) : results/result.log1205 
+area(17,14) : results/result.log1206 
+area(17,15) : results/result.log1207 
+area(17,16) : results/result.log1208 
+area(17,17) : results/result.log1209 
+area(17,18) : results/result.log1210 
+area(17,19) : results/result.log1211 
+area(17,20) : results/result.log1212 
+area(17,21) : results/result.log1213 
+area(17,22) : results/result.log1214 
+area(17,23) : results/result.log1215 
+area(17,24) : results/result.log1216 
+area(17,25) : results/result.log1217 
+area(17,26) : results/result.log1218 
+area(17,27) : results/result.log1219 
+area(17,28) : results/result.log1220 
+area(17,29) : results/result.log1221 
+area(17,30) : results/result.log1222 
+area(17,31) : results/result.log1223 
+area(17,32) : results/result.log1224 
+area(17,33) : results/result.log1225 
+area(17,34) : results/result.log1226 
+area(17,35) : results/result.log1227 
+area(17,36) : results/result.log1228 
+area(17,37) : results/result.log1229 
+area(17,38) : results/result.log1230 
+area(17,39) : results/result.log1231 
+area(17,40) : results/result.log1232 
+area(17,41) : results/result.log1233 
+area(17,42) : results/result.log1234 
+area(17,43) : results/result.log1235 
+area(17,44) : results/result.log1236 
+area(17,45) : results/result.log1237 
+area(17,46) : results/result.log1238 
+area(17,47) : results/result.log1239 
+area(17,48) : results/result.log1240 
+area(17,49) : results/result.log1241 
+area(17,50) : results/result.log1242 
+area(17,51) : results/result.log1243 
+area(17,52) : results/result.log1244 
+area(17,53) : results/result.log1245 
+area(17,54) : results/result.log1246 
+area(17,55) : results/result.log1247 
+area(17,56) : results/result.log1248 
+area(17,57) : results/result.log1249 
+area(17,58) : results/result.log1250 
+area(17,59) : results/result.log1251 
+area(17,60) : results/result.log1252 
+area(17,61) : results/result.log1253 
+area(17,62) : results/result.log1254 
+area(17,63) : results/result.log1255 
+area(17,64) : results/result.log1256 
+area(17,65) : results/result.log1257 
+area(17,66) : results/result.log1258 
+area(17,67) : results/result.log1259 
+area(17,68) : results/result.log1260 
+area(17,69) : results/result.log1261 
+area(18,0) : results/result.log1262 
+area(18,1) : results/result.log1263 
+area(18,2) : results/result.log1264 
+area(18,3) : results/result.log1265 
+area(18,4) : results/result.log1266 
+area(18,5) : results/result.log1267 
+area(18,6) : results/result.log1268 
+area(18,7) : results/result.log1269 
+area(18,8) : results/result.log1270 
+area(18,9) : results/result.log1271 
+area(18,10) : results/result.log1272 
+area(18,11) : results/result.log1273 
+area(18,12) : results/result.log1274 
+area(18,13) : results/result.log1275 
+area(18,14) : results/result.log1276 
+area(18,15) : results/result.log1277 
+area(18,16) : results/result.log1278 
+area(18,17) : results/result.log1279 
+area(18,18) : results/result.log1280 
+area(18,19) : results/result.log1281 
+area(18,20) : results/result.log1282 
+area(18,21) : results/result.log1283 
+area(18,22) : results/result.log1284 
+area(18,23) : results/result.log1285 
+area(18,24) : results/result.log1286 
+area(18,25) : results/result.log1287 
+area(18,26) : results/result.log1288 
+area(18,27) : results/result.log1289 
+area(18,28) : results/result.log1290 
+area(18,29) : results/result.log1291 
+area(18,30) : results/result.log1292 
+area(18,31) : results/result.log1293 
+area(18,32) : results/result.log1294 
+area(18,33) : results/result.log1295 
+area(18,34) : results/result.log1296 
+area(18,35) : results/result.log1297 
+area(18,36) : results/result.log1298 
+area(18,37) : results/result.log1299 
+area(18,38) : results/result.log1300 
+area(18,39) : results/result.log1301 
+area(18,40) : results/result.log1302 
+area(18,41) : results/result.log1303 
+area(18,42) : results/result.log1304 
+area(18,43) : results/result.log1305 
+area(18,44) : results/result.log1306 
+area(18,45) : results/result.log1307 
+area(18,46) : results/result.log1308 
+area(18,47) : results/result.log1309 
+area(18,48) : results/result.log1310 
+area(18,49) : results/result.log1311 
+area(18,50) : results/result.log1312 
+area(18,51) : results/result.log1313 
+area(18,52) : results/result.log1314 
+area(18,53) : results/result.log1315 
+area(18,54) : results/result.log1316 
+area(18,55) : results/result.log1317 
+area(18,56) : results/result.log1318 
+area(18,57) : results/result.log1319 
+area(18,58) : results/result.log1320 
+area(18,59) : results/result.log1321 
+area(18,60) : results/result.log1322 
+area(18,61) : results/result.log1323 
+area(18,62) : results/result.log1324 
+area(18,63) : results/result.log1325 
+area(18,64) : results/result.log1326 
+area(18,65) : results/result.log1327 
+area(18,66) : results/result.log1328 
+area(18,67) : results/result.log1329 
+area(18,68) : results/result.log1330 
+area(18,69) : results/result.log1331 
+area(19,0) : results/result.log1332 
+area(19,1) : results/result.log1333 
+area(19,2) : results/result.log1334 
+area(19,3) : results/result.log1335 
+area(19,4) : results/result.log1336 
+area(19,5) : results/result.log1337 
+area(19,6) : results/result.log1338 
+area(19,7) : results/result.log1339 
+area(19,8) : results/result.log1340 
+area(19,9) : results/result.log1341 
+area(19,10) : results/result.log1342 
+area(19,11) : results/result.log1343 
+area(19,12) : results/result.log1344 
+area(19,13) : results/result.log1345 
+area(19,14) : results/result.log1346 
+area(19,15) : results/result.log1347 
+area(19,16) : results/result.log1348 
+area(19,17) : results/result.log1349 
+area(19,18) : results/result.log1350 
+area(19,19) : results/result.log1351 
+area(19,20) : results/result.log1352 
+area(19,21) : results/result.log1353 
+area(19,22) : results/result.log1354 
+area(19,23) : results/result.log1355 
+area(19,24) : results/result.log1356 
+area(19,25) : results/result.log1357 
+area(19,26) : results/result.log1358 
+area(19,27) : results/result.log1359 
+area(19,28) : results/result.log1360 
+area(19,29) : results/result.log1361 
+area(19,30) : results/result.log1362 
+area(19,31) : results/result.log1363 
+area(19,32) : results/result.log1364 
+area(19,33) : results/result.log1365 
+area(19,34) : results/result.log1366 
+area(19,35) : results/result.log1367 
+area(19,36) : results/result.log1368 
+area(19,37) : results/result.log1369 
+area(19,38) : results/result.log1370 
+area(19,39) : results/result.log1371 
+area(19,40) : results/result.log1372 
+area(19,41) : results/result.log1373 
+area(19,42) : results/result.log1374 
+area(19,43) : results/result.log1375 
+area(19,44) : results/result.log1376 
+area(19,45) : results/result.log1377 
+area(19,46) : results/result.log1378 
+area(19,47) : results/result.log1379 
+area(19,48) : results/result.log1380 
+area(19,49) : results/result.log1381 
+area(19,50) : results/result.log1382 
+area(19,51) : results/result.log1383 
+area(19,52) : results/result.log1384 
+area(19,53) : results/result.log1385 
+area(19,54) : results/result.log1386 
+area(19,55) : results/result.log1387 
+area(19,56) : results/result.log1388 
+area(19,57) : results/result.log1389 
+area(19,58) : results/result.log1390 
+area(19,59) : results/result.log1391 
+area(19,60) : results/result.log1392 
+area(19,61) : results/result.log1393 
+area(19,62) : results/result.log1394 
+area(19,63) : results/result.log1395 
+area(19,64) : results/result.log1396 
+area(19,65) : results/result.log1397 
+area(19,66) : results/result.log1398 
+area(19,67) : results/result.log1399 
+area(19,68) : results/result.log1400 
+area(19,69) : results/result.log1401 
+area(20,0) : results/result.log1402 
+area(20,1) : results/result.log1403 
+area(20,2) : results/result.log1404 
+area(20,3) : results/result.log1405 
+area(20,4) : results/result.log1406 
+area(20,5) : results/result.log1407 
+area(20,6) : results/result.log1408 
+area(20,7) : results/result.log1409 
+area(20,8) : results/result.log1410 
+area(20,9) : results/result.log1411 
+area(20,10) : results/result.log1412 
+area(20,11) : results/result.log1413 
+area(20,12) : results/result.log1414 
+area(20,13) : results/result.log1415 
+area(20,14) : results/result.log1416 
+area(20,15) : results/result.log1417 
+area(20,16) : results/result.log1418 
+area(20,17) : results/result.log1419 
+area(20,18) : results/result.log1420 
+area(20,19) : results/result.log1421 
+area(20,20) : results/result.log1422 
+area(20,21) : results/result.log1423 
+area(20,22) : results/result.log1424 
+area(20,23) : results/result.log1425 
+area(20,24) : results/result.log1426 
+area(20,25) : results/result.log1427 
+area(20,26) : results/result.log1428 
+area(20,27) : results/result.log1429 
+area(20,28) : results/result.log1430 
+area(20,29) : results/result.log1431 
+area(20,30) : results/result.log1432 
+area(20,31) : results/result.log1433 
+area(20,32) : results/result.log1434 
+area(20,33) : results/result.log1435 
+area(20,34) : results/result.log1436 
+area(20,35) : results/result.log1437 
+area(20,36) : results/result.log1438 
+area(20,37) : results/result.log1439 
+area(20,38) : results/result.log1440 
+area(20,39) : results/result.log1441 
+area(20,40) : results/result.log1442 
+area(20,41) : results/result.log1443 
+area(20,42) : results/result.log1444 
+area(20,43) : results/result.log1445 
+area(20,44) : results/result.log1446 
+area(20,45) : results/result.log1447 
+area(20,46) : results/result.log1448 
+area(20,47) : results/result.log1449 
+area(20,48) : results/result.log1450 
+area(20,49) : results/result.log1451 
+area(20,50) : results/result.log1452 
+area(20,51) : results/result.log1453 
+area(20,52) : results/result.log1454 
+area(20,53) : results/result.log1455 
+area(20,54) : results/result.log1456 
+area(20,55) : results/result.log1457 
+area(20,56) : results/result.log1458 
+area(20,57) : results/result.log1459 
+area(20,58) : results/result.log1460 
+area(20,59) : results/result.log1461 
+area(20,60) : results/result.log1462 
+area(20,61) : results/result.log1463 
+area(20,62) : results/result.log1464 
+area(20,63) : results/result.log1465 
+area(20,64) : results/result.log1466 
+area(20,65) : results/result.log1467 
+area(20,66) : results/result.log1468 
+area(20,67) : results/result.log1469 
+area(20,68) : results/result.log1470 
+area(20,69) : results/result.log1471 
+area(21,0) : results/result.log1472 
+area(21,1) : results/result.log1473 
+area(21,2) : results/result.log1474 
+area(21,3) : results/result.log1475 
+area(21,4) : results/result.log1476 
+area(21,5) : results/result.log1477 
+area(21,6) : results/result.log1478 
+area(21,7) : results/result.log1479 
+area(21,8) : results/result.log1480 
+area(21,9) : results/result.log1481 
+area(21,10) : results/result.log1482 
+area(21,11) : results/result.log1483 
+area(21,12) : results/result.log1484 
+area(21,13) : results/result.log1485 
+area(21,14) : results/result.log1486 
+area(21,15) : results/result.log1487 
+area(21,16) : results/result.log1488 
+area(21,17) : results/result.log1489 
+area(21,18) : results/result.log1490 
+area(21,19) : results/result.log1491 
+area(21,20) : results/result.log1492 
+area(21,21) : results/result.log1493 
+area(21,22) : results/result.log1494 
+area(21,23) : results/result.log1495 
+area(21,24) : results/result.log1496 
+area(21,25) : results/result.log1497 
+area(21,26) : results/result.log1498 
+area(21,27) : results/result.log1499 
+area(21,28) : results/result.log1500 
+area(21,29) : results/result.log1501 
+area(21,30) : results/result.log1502 
+area(21,31) : results/result.log1503 
+area(21,32) : results/result.log1504 
+area(21,33) : results/result.log1505 
+area(21,34) : results/result.log1506 
+area(21,35) : results/result.log1507 
+area(21,36) : results/result.log1508 
+area(21,37) : results/result.log1509 
+area(21,38) : results/result.log1510 
+area(21,39) : results/result.log1511 
+area(21,40) : results/result.log1512 
+area(21,41) : results/result.log1513 
+area(21,42) : results/result.log1514 
+area(21,43) : results/result.log1515 
+area(21,44) : results/result.log1516 
+area(21,45) : results/result.log1517 
+area(21,46) : results/result.log1518 
+area(21,47) : results/result.log1519 
+area(21,48) : results/result.log1520 
+area(21,49) : results/result.log1521 
+area(21,50) : results/result.log1522 
+area(21,51) : results/result.log1523 
+area(21,52) : results/result.log1524 
+area(21,53) : results/result.log1525 
+area(21,54) : results/result.log1526 
+area(21,55) : results/result.log1527 
+area(21,56) : results/result.log1528 
+area(21,57) : results/result.log1529 
+area(21,58) : results/result.log1530 
+area(21,59) : results/result.log1531 
+area(21,60) : results/result.log1532 
+area(21,61) : results/result.log1533 
+area(21,62) : results/result.log1534 
+area(21,63) : results/result.log1535 
+area(21,64) : results/result.log1536 
+area(21,65) : results/result.log1537 
+area(21,66) : results/result.log1538 
+area(21,67) : results/result.log1539 
+area(21,68) : results/result.log1540 
+area(21,69) : results/result.log1541 
+area(22,0) : results/result.log1542 
+area(22,1) : results/result.log1543 
+area(22,2) : results/result.log1544 
+area(22,3) : results/result.log1545 
+area(22,4) : results/result.log1546 
+area(22,5) : results/result.log1547 
+area(22,6) : results/result.log1548 
+area(22,7) : results/result.log1549 
+area(22,8) : results/result.log1550 
+area(22,9) : results/result.log1551 
+area(22,10) : results/result.log1552 
+area(22,11) : results/result.log1553 
+area(22,12) : results/result.log1554 
+area(22,13) : results/result.log1555 
+area(22,14) : results/result.log1556 
+area(22,15) : results/result.log1557 
+area(22,16) : results/result.log1558 
+area(22,17) : results/result.log1559 
+area(22,18) : results/result.log1560 
+area(22,19) : results/result.log1561 
+area(22,20) : results/result.log1562 
+area(22,21) : results/result.log1563 
+area(22,22) : results/result.log1564 
+area(22,23) : results/result.log1565 
+area(22,24) : results/result.log1566 
+area(22,25) : results/result.log1567 
+area(22,26) : results/result.log1568 
+area(22,27) : results/result.log1569 
+area(22,28) : results/result.log1570 
+area(22,29) : results/result.log1571 
+area(22,30) : results/result.log1572 
+area(22,31) : results/result.log1573 
+area(22,32) : results/result.log1574 
+area(22,33) : results/result.log1575 
+area(22,34) : results/result.log1576 
+area(22,35) : results/result.log1577 
+area(22,36) : results/result.log1578 
+area(22,37) : results/result.log1579 
+area(22,38) : results/result.log1580 
+area(22,39) : results/result.log1581 
+area(22,40) : results/result.log1582 
+area(22,41) : results/result.log1583 
+area(22,42) : results/result.log1584 
+area(22,43) : results/result.log1585 
+area(22,44) : results/result.log1586 
+area(22,45) : results/result.log1587 
+area(22,46) : results/result.log1588 
+area(22,47) : results/result.log1589 
+area(22,48) : results/result.log1590 
+area(22,49) : results/result.log1591 
+area(22,50) : results/result.log1592 
+area(22,51) : results/result.log1593 
+area(22,52) : results/result.log1594 
+area(22,53) : results/result.log1595 
+area(22,54) : results/result.log1596 
+area(22,55) : results/result.log1597 
+area(22,56) : results/result.log1598 
+area(22,57) : results/result.log1599 
+area(22,58) : results/result.log1600 
+area(22,59) : results/result.log1601 
+area(22,60) : results/result.log1602 
+area(22,61) : results/result.log1603 
+area(22,62) : results/result.log1604 
+area(22,63) : results/result.log1605 
+area(22,64) : results/result.log1606 
+area(22,65) : results/result.log1607 
+area(22,66) : results/result.log1608 
+area(22,67) : results/result.log1609 
+area(22,68) : results/result.log1610 
+area(22,69) : results/result.log1611 
+area(23,0) : results/result.log1612 
+area(23,1) : results/result.log1613 
+area(23,2) : results/result.log1614 
+area(23,3) : results/result.log1615 
+area(23,4) : results/result.log1616 
+area(23,5) : results/result.log1617 
+area(23,6) : results/result.log1618 
+area(23,7) : results/result.log1619 
+area(23,8) : results/result.log1620 
+area(23,9) : results/result.log1621 
+area(23,10) : results/result.log1622 
+area(23,11) : results/result.log1623 
+area(23,12) : results/result.log1624 
+area(23,13) : results/result.log1625 
+area(23,14) : results/result.log1626 
+area(23,15) : results/result.log1627 
+area(23,16) : results/result.log1628 
+area(23,17) : results/result.log1629 
+area(23,18) : results/result.log1630 
+area(23,19) : results/result.log1631 
+area(23,20) : results/result.log1632 
+area(23,21) : results/result.log1633 
+area(23,22) : results/result.log1634 
+area(23,23) : results/result.log1635 
+area(23,24) : results/result.log1636 
+area(23,25) : results/result.log1637 
+area(23,26) : results/result.log1638 
+area(23,27) : results/result.log1639 
+area(23,28) : results/result.log1640 
+area(23,29) : results/result.log1641 
+area(23,30) : results/result.log1642 
+area(23,31) : results/result.log1643 
+area(23,32) : results/result.log1644 
+area(23,33) : results/result.log1645 
+area(23,34) : results/result.log1646 
+area(23,35) : results/result.log1647 
+area(23,36) : results/result.log1648 
+area(23,37) : results/result.log1649 
+area(23,38) : results/result.log1650 
+area(23,39) : results/result.log1651 
+area(23,40) : results/result.log1652 
+area(23,41) : results/result.log1653 
+area(23,42) : results/result.log1654 
+area(23,43) : results/result.log1655 
+area(23,44) : results/result.log1656 
+area(23,45) : results/result.log1657 
+area(23,46) : results/result.log1658 
+area(23,47) : results/result.log1659 
+area(23,48) : results/result.log1660 
+area(23,49) : results/result.log1661 
+area(23,50) : results/result.log1662 
+area(23,51) : results/result.log1663 
+area(23,52) : results/result.log1664 
+area(23,53) : results/result.log1665 
+area(23,54) : results/result.log1666 
+area(23,55) : results/result.log1667 
+area(23,56) : results/result.log1668 
+area(23,57) : results/result.log1669 
+area(23,58) : results/result.log1670 
+area(23,59) : results/result.log1671 
+area(23,60) : results/result.log1672 
+area(23,61) : results/result.log1673 
+area(23,62) : results/result.log1674 
+area(23,63) : results/result.log1675 
+area(23,64) : results/result.log1676 
+area(23,65) : results/result.log1677 
+area(23,66) : results/result.log1678 
+area(23,67) : results/result.log1679 
+area(23,68) : results/result.log1680 
+area(23,69) : results/result.log1681 
+area(24,0) : results/result.log1682 
+area(24,1) : results/result.log1683 
+area(24,2) : results/result.log1684 
+area(24,3) : results/result.log1685 
+area(24,4) : results/result.log1686 
+area(24,5) : results/result.log1687 
+area(24,6) : results/result.log1688 
+area(24,7) : results/result.log1689 
+area(24,8) : results/result.log1690 
+area(24,9) : results/result.log1691 
+area(24,10) : results/result.log1692 
+area(24,11) : results/result.log1693 
+area(24,12) : results/result.log1694 
+area(24,13) : results/result.log1695 
+area(24,14) : results/result.log1696 
+area(24,15) : results/result.log1697 
+area(24,16) : results/result.log1698 
+area(24,17) : results/result.log1699 
+area(24,18) : results/result.log1700 
+area(24,19) : results/result.log1701 
+area(24,20) : results/result.log1702 
+area(24,21) : results/result.log1703 
+area(24,22) : results/result.log1704 
+area(24,23) : results/result.log1705 
+area(24,24) : results/result.log1706 
+area(24,25) : results/result.log1707 
+area(24,26) : results/result.log1708 
+area(24,27) : results/result.log1709 
+area(24,28) : results/result.log1710 
+area(24,29) : results/result.log1711 
+area(24,30) : results/result.log1712 
+area(24,31) : results/result.log1713 
+area(24,32) : results/result.log1714 
+area(24,33) : results/result.log1715 
+area(24,34) : results/result.log1716 
+area(24,35) : results/result.log1717 
+area(24,36) : results/result.log1718 
+area(24,37) : results/result.log1719 
+area(24,38) : results/result.log1720 
+area(24,39) : results/result.log1721 
+area(24,40) : results/result.log1722 
+area(24,41) : results/result.log1723 
+area(24,42) : results/result.log1724 
+area(24,43) : results/result.log1725 
+area(24,44) : results/result.log1726 
+area(24,45) : results/result.log1727 
+area(24,46) : results/result.log1728 
+area(24,47) : results/result.log1729 
+area(24,48) : results/result.log1730 
+area(24,49) : results/result.log1731 
+area(24,50) : results/result.log1732 
+area(24,51) : results/result.log1733 
+area(24,52) : results/result.log1734 
+area(24,53) : results/result.log1735 
+area(24,54) : results/result.log1736 
+area(24,55) : results/result.log1737 
+area(24,56) : results/result.log1738 
+area(24,57) : results/result.log1739 
+area(24,58) : results/result.log1740 
+area(24,59) : results/result.log1741 
+area(24,60) : results/result.log1742 
+area(24,61) : results/result.log1743 
+area(24,62) : results/result.log1744 
+area(24,63) : results/result.log1745 
+area(24,64) : results/result.log1746 
+area(24,65) : results/result.log1747 
+area(24,66) : results/result.log1748 
+area(24,67) : results/result.log1749 
+area(24,68) : results/result.log1750 
+area(24,69) : results/result.log1751 
+area(25,0) : results/result.log1752 
+area(25,1) : results/result.log1753 
+area(25,2) : results/result.log1754 
+area(25,3) : results/result.log1755 
+area(25,4) : results/result.log1756 
+area(25,5) : results/result.log1757 
+area(25,6) : results/result.log1758 
+area(25,7) : results/result.log1759 
+area(25,8) : results/result.log1760 
+area(25,9) : results/result.log1761 
+area(25,10) : results/result.log1762 
+area(25,11) : results/result.log1763 
+area(25,12) : results/result.log1764 
+area(25,13) : results/result.log1765 
+area(25,14) : results/result.log1766 
+area(25,15) : results/result.log1767 
+area(25,16) : results/result.log1768 
+area(25,17) : results/result.log1769 
+area(25,18) : results/result.log1770 
+area(25,19) : results/result.log1771 
+area(25,20) : results/result.log1772 
+area(25,21) : results/result.log1773 
+area(25,22) : results/result.log1774 
+area(25,23) : results/result.log1775 
+area(25,24) : results/result.log1776 
+area(25,25) : results/result.log1777 
+area(25,26) : results/result.log1778 
+area(25,27) : results/result.log1779 
+area(25,28) : results/result.log1780 
+area(25,29) : results/result.log1781 
+area(25,30) : results/result.log1782 
+area(25,31) : results/result.log1783 
+area(25,32) : results/result.log1784 
+area(25,33) : results/result.log1785 
+area(25,34) : results/result.log1786 
+area(25,35) : results/result.log1787 
+area(25,36) : results/result.log1788 
+area(25,37) : results/result.log1789 
+area(25,38) : results/result.log1790 
+area(25,39) : results/result.log1791 
+area(25,40) : results/result.log1792 
+area(25,41) : results/result.log1793 
+area(25,42) : results/result.log1794 
+area(25,43) : results/result.log1795 
+area(25,44) : results/result.log1796 
+area(25,45) : results/result.log1797 
+area(25,46) : results/result.log1798 
+area(25,47) : results/result.log1799 
+area(25,48) : results/result.log1800 
+area(25,49) : results/result.log1801 
+area(25,50) : results/result.log1802 
+area(25,51) : results/result.log1803 
+area(25,52) : results/result.log1804 
+area(25,53) : results/result.log1805 
+area(25,54) : results/result.log1806 
+area(25,55) : results/result.log1807 
+area(25,56) : results/result.log1808 
+area(25,57) : results/result.log1809 
+area(25,58) : results/result.log1810 
+area(25,59) : results/result.log1811 
+area(25,60) : results/result.log1812 
+area(25,61) : results/result.log1813 
+area(25,62) : results/result.log1814 
+area(25,63) : results/result.log1815 
+area(25,64) : results/result.log1816 
+area(25,65) : results/result.log1817 
+area(25,66) : results/result.log1818 
+area(25,67) : results/result.log1819 
+area(25,68) : results/result.log1820 
+area(25,69) : results/result.log1821 
+area(26,0) : results/result.log1822 
+area(26,1) : results/result.log1823 
+area(26,2) : results/result.log1824 
+area(26,3) : results/result.log1825 
+area(26,4) : results/result.log1826 
+area(26,5) : results/result.log1827 
+area(26,6) : results/result.log1828 
+area(26,7) : results/result.log1829 
+area(26,8) : results/result.log1830 
+area(26,9) : results/result.log1831 
+area(26,10) : results/result.log1832 
+area(26,11) : results/result.log1833 
+area(26,12) : results/result.log1834 
+area(26,13) : results/result.log1835 
+area(26,14) : results/result.log1836 
+area(26,15) : results/result.log1837 
+area(26,16) : results/result.log1838 
+area(26,17) : results/result.log1839 
+area(26,18) : results/result.log1840 
+area(26,19) : results/result.log1841 
+area(26,20) : results/result.log1842 
+area(26,21) : results/result.log1843 
+area(26,22) : results/result.log1844 
+area(26,23) : results/result.log1845 
+area(26,24) : results/result.log1846 
+area(26,25) : results/result.log1847 
+area(26,26) : results/result.log1848 
+area(26,27) : results/result.log1849 
+area(26,28) : results/result.log1850 
+area(26,29) : results/result.log1851 
+area(26,30) : results/result.log1852 
+area(26,31) : results/result.log1853 
+area(26,32) : results/result.log1854 
+area(26,33) : results/result.log1855 
+area(26,34) : results/result.log1856 
+area(26,35) : results/result.log1857 
+area(26,36) : results/result.log1858 
+area(26,37) : results/result.log1859 
+area(26,38) : results/result.log1860 
+area(26,39) : results/result.log1861 
+area(26,40) : results/result.log1862 
+area(26,41) : results/result.log1863 
+area(26,42) : results/result.log1864 
+area(26,43) : results/result.log1865 
+area(26,44) : results/result.log1866 
+area(26,45) : results/result.log1867 
+area(26,46) : results/result.log1868 
+area(26,47) : results/result.log1869 
+area(26,48) : results/result.log1870 
+area(26,49) : results/result.log1871 
+area(26,50) : results/result.log1872 
+area(26,51) : results/result.log1873 
+area(26,52) : results/result.log1874 
+area(26,53) : results/result.log1875 
+area(26,54) : results/result.log1876 
+area(26,55) : results/result.log1877 
+area(26,56) : results/result.log1878 
+area(26,57) : results/result.log1879 
+area(26,58) : results/result.log1880 
+area(26,59) : results/result.log1881 
+area(26,60) : results/result.log1882 
+area(26,61) : results/result.log1883 
+area(26,62) : results/result.log1884 
+area(26,63) : results/result.log1885 
+area(26,64) : results/result.log1886 
+area(26,65) : results/result.log1887 
+area(26,66) : results/result.log1888 
+area(26,67) : results/result.log1889 
+area(26,68) : results/result.log1890 
+area(26,69) : results/result.log1891 
+area(27,0) : results/result.log1892 
+area(27,1) : results/result.log1893 
+area(27,2) : results/result.log1894 
+area(27,3) : results/result.log1895 
+area(27,4) : results/result.log1896 
+area(27,5) : results/result.log1897 
+area(27,6) : results/result.log1898 
+area(27,7) : results/result.log1899 
+area(27,8) : results/result.log1900 
+area(27,9) : results/result.log1901 
+area(27,10) : results/result.log1902 
+area(27,11) : results/result.log1903 
+area(27,12) : results/result.log1904 
+area(27,13) : results/result.log1905 
+area(27,14) : results/result.log1906 
+area(27,15) : results/result.log1907 
+area(27,16) : results/result.log1908 
+area(27,17) : results/result.log1909 
+area(27,18) : results/result.log1910 
+area(27,19) : results/result.log1911 
+area(27,20) : results/result.log1912 
+area(27,21) : results/result.log1913 
+area(27,22) : results/result.log1914 
+area(27,23) : results/result.log1915 
+area(27,24) : results/result.log1916 
+area(27,25) : results/result.log1917 
+area(27,26) : results/result.log1918 
+area(27,27) : results/result.log1919 
+area(27,28) : results/result.log1920 
+area(27,29) : results/result.log1921 
+area(27,30) : results/result.log1922 
+area(27,31) : results/result.log1923 
+area(27,32) : results/result.log1924 
+area(27,33) : results/result.log1925 
+area(27,34) : results/result.log1926 
+area(27,35) : results/result.log1927 
+area(27,36) : results/result.log1928 
+area(27,37) : results/result.log1929 
+area(27,38) : results/result.log1930 
+area(27,39) : results/result.log1931 
+area(27,40) : results/result.log1932 
+area(27,41) : results/result.log1933 
+area(27,42) : results/result.log1934 
+area(27,43) : results/result.log1935 
+area(27,44) : results/result.log1936 
+area(27,45) : results/result.log1937 
+area(27,46) : results/result.log1938 
+area(27,47) : results/result.log1939 
+area(27,48) : results/result.log1940 
+area(27,49) : results/result.log1941 
+area(27,50) : results/result.log1942 
+area(27,51) : results/result.log1943 
+area(27,52) : results/result.log1944 
+area(27,53) : results/result.log1945 
+area(27,54) : results/result.log1946 
+area(27,55) : results/result.log1947 
+area(27,56) : results/result.log1948 
+area(27,57) : results/result.log1949 
+area(27,58) : results/result.log1950 
+area(27,59) : results/result.log1951 
+area(27,60) : results/result.log1952 
+area(27,61) : results/result.log1953 
+area(27,62) : results/result.log1954 
+area(27,63) : results/result.log1955 
+area(27,64) : results/result.log1956 
+area(27,65) : results/result.log1957 
+area(27,66) : results/result.log1958 
+area(27,67) : results/result.log1959 
+area(27,68) : results/result.log1960 
+area(27,69) : results/result.log1961 
+area(28,0) : results/result.log1962 
+area(28,1) : results/result.log1963 
+area(28,2) : results/result.log1964 
+area(28,3) : results/result.log1965 
+area(28,4) : results/result.log1966 
+area(28,5) : results/result.log1967 
+area(28,6) : results/result.log1968 
+area(28,7) : results/result.log1969 
+area(28,8) : results/result.log1970 
+area(28,9) : results/result.log1971 
+area(28,10) : results/result.log1972 
+area(28,11) : results/result.log1973 
+area(28,12) : results/result.log1974 
+area(28,13) : results/result.log1975 
+area(28,14) : results/result.log1976 
+area(28,15) : results/result.log1977 
+area(28,16) : results/result.log1978 
+area(28,17) : results/result.log1979 
+area(28,18) : results/result.log1980 
+area(28,19) : results/result.log1981 
+area(28,20) : results/result.log1982 
+area(28,21) : results/result.log1983 
+area(28,22) : results/result.log1984 
+area(28,23) : results/result.log1985 
+area(28,24) : results/result.log1986 
+area(28,25) : results/result.log1987 
+area(28,26) : results/result.log1988 
+area(28,27) : results/result.log1989 
+area(28,28) : results/result.log1990 
+area(28,29) : results/result.log1991 
+area(28,30) : results/result.log1992 
+area(28,31) : results/result.log1993 
+area(28,32) : results/result.log1994 
+area(28,33) : results/result.log1995 
+area(28,34) : results/result.log1996 
+area(28,35) : results/result.log1997 
+area(28,36) : results/result.log1998 
+area(28,37) : results/result.log1999 
+area(28,38) : results/result.log2000 
+area(28,39) : results/result.log2001 
+area(28,40) : results/result.log2002 
+area(28,41) : results/result.log2003 
+area(28,42) : results/result.log2004 
+area(28,43) : results/result.log2005 
+area(28,44) : results/result.log2006 
+area(28,45) : results/result.log2007 
+area(28,46) : results/result.log2008 
+area(28,47) : results/result.log2009 
+area(28,48) : results/result.log2010 
+area(28,49) : results/result.log2011 
+area(28,50) : results/result.log2012 
+area(28,51) : results/result.log2013 
+area(28,52) : results/result.log2014 
+area(28,53) : results/result.log2015 
+area(28,54) : results/result.log2016 
+area(28,55) : results/result.log2017 
+area(28,56) : results/result.log2018 
+area(28,57) : results/result.log2019 
+area(28,58) : results/result.log2020 
+area(28,59) : results/result.log2021 
+area(28,60) : results/result.log2022 
+area(28,61) : results/result.log2023 
+area(28,62) : results/result.log2024 
+area(28,63) : results/result.log2025 
+area(28,64) : results/result.log2026 
+area(28,65) : results/result.log2027 
+area(28,66) : results/result.log2028 
+area(28,67) : results/result.log2029 
+area(28,68) : results/result.log2030 
+area(28,69) : results/result.log2031 
+area(29,0) : results/result.log2032 
+area(29,1) : results/result.log2033 
+area(29,2) : results/result.log2034 
+area(29,3) : results/result.log2035 
+area(29,4) : results/result.log2036 
+area(29,5) : results/result.log2037 
+area(29,6) : results/result.log2038 
+area(29,7) : results/result.log2039 
+area(29,8) : results/result.log2040 
+area(29,9) : results/result.log2041 
+area(29,10) : results/result.log2042 
+area(29,11) : results/result.log2043 
+area(29,12) : results/result.log2044 
+area(29,13) : results/result.log2045 
+area(29,14) : results/result.log2046 
+area(29,15) : results/result.log2047 
+area(29,16) : results/result.log2048 
+area(29,17) : results/result.log2049 
+area(29,18) : results/result.log2050 
+area(29,19) : results/result.log2051 
+area(29,20) : results/result.log2052 
+area(29,21) : results/result.log2053 
+area(29,22) : results/result.log2054 
+area(29,23) : results/result.log2055 
+area(29,24) : results/result.log2056 
+area(29,25) : results/result.log2057 
+area(29,26) : results/result.log2058 
+area(29,27) : results/result.log2059 
+area(29,28) : results/result.log2060 
+area(29,29) : results/result.log2061 
+area(29,30) : results/result.log2062 
+area(29,31) : results/result.log2063 
+area(29,32) : results/result.log2064 
+area(29,33) : results/result.log2065 
+area(29,34) : results/result.log2066 
+area(29,35) : results/result.log2067 
+area(29,36) : results/result.log2068 
+area(29,37) : results/result.log2069 
+area(29,38) : results/result.log2070 
+area(29,39) : results/result.log2071 
+area(29,40) : results/result.log2072 
+area(29,41) : results/result.log2073 
+area(29,42) : results/result.log2074 
+area(29,43) : results/result.log2075 
+area(29,44) : results/result.log2076 
+area(29,45) : results/result.log2077 
+area(29,46) : results/result.log2078 
+area(29,47) : results/result.log2079 
+area(29,48) : results/result.log2080 
+area(29,49) : results/result.log2081 
+area(29,50) : results/result.log2082 
+area(29,51) : results/result.log2083 
+area(29,52) : results/result.log2084 
+area(29,53) : results/result.log2085 
+area(29,54) : results/result.log2086 
+area(29,55) : results/result.log2087 
+area(29,56) : results/result.log2088 
+area(29,57) : results/result.log2089 
+area(29,58) : results/result.log2090 
+area(29,59) : results/result.log2091 
+area(29,60) : results/result.log2092 
+area(29,61) : results/result.log2093 
+area(29,62) : results/result.log2094 
+area(29,63) : results/result.log2095 
+area(29,64) : results/result.log2096 
+area(29,65) : results/result.log2097 
+area(29,66) : results/result.log2098 
+area(29,67) : results/result.log2099 
+area(29,68) : results/result.log2100 
+area(29,69) : results/result.log2101 
+area(30,0) : results/result.log2102 
+area(30,1) : results/result.log2103 
+area(30,2) : results/result.log2104 
+area(30,3) : results/result.log2105 
+area(30,4) : results/result.log2106 
+area(30,5) : results/result.log2107 
+area(30,6) : results/result.log2108 
+area(30,7) : results/result.log2109 
+area(30,8) : results/result.log2110 
+area(30,9) : results/result.log2111 
+area(30,10) : results/result.log2112 
+area(30,11) : results/result.log2113 
+area(30,12) : results/result.log2114 
+area(30,13) : results/result.log2115 
+area(30,14) : results/result.log2116 
+area(30,15) : results/result.log2117 
+area(30,16) : results/result.log2118 
+area(30,17) : results/result.log2119 
+area(30,18) : results/result.log2120 
+area(30,19) : results/result.log2121 
+area(30,20) : results/result.log2122 
+area(30,21) : results/result.log2123 
+area(30,22) : results/result.log2124 
+area(30,23) : results/result.log2125 
+area(30,24) : results/result.log2126 
+area(30,25) : results/result.log2127 
+area(30,26) : results/result.log2128 
+area(30,27) : results/result.log2129 
+area(30,28) : results/result.log2130 
+area(30,29) : results/result.log2131 
+area(30,30) : results/result.log2132 
+area(30,31) : results/result.log2133 
+area(30,32) : results/result.log2134 
+area(30,33) : results/result.log2135 
+area(30,34) : results/result.log2136 
+area(30,35) : results/result.log2137 
+area(30,36) : results/result.log2138 
+area(30,37) : results/result.log2139 
+area(30,38) : results/result.log2140 
+area(30,39) : results/result.log2141 
+area(30,40) : results/result.log2142 
+area(30,41) : results/result.log2143 
+area(30,42) : results/result.log2144 
+area(30,43) : results/result.log2145 
+area(30,44) : results/result.log2146 
+area(30,45) : results/result.log2147 
+area(30,46) : results/result.log2148 
+area(30,47) : results/result.log2149 
+area(30,48) : results/result.log2150 
+area(30,49) : results/result.log2151 
+area(30,50) : results/result.log2152 
+area(30,51) : results/result.log2153 
+area(30,52) : results/result.log2154 
+area(30,53) : results/result.log2155 
+area(30,54) : results/result.log2156 
+area(30,55) : results/result.log2157 
+area(30,56) : results/result.log2158 
+area(30,57) : results/result.log2159 
+area(30,58) : results/result.log2160 
+area(30,59) : results/result.log2161 
+area(30,60) : results/result.log2162 
+area(30,61) : results/result.log2163 
+area(30,62) : results/result.log2164 
+area(30,63) : results/result.log2165 
+area(30,64) : results/result.log2166 
+area(30,65) : results/result.log2167 
+area(30,66) : results/result.log2168 
+area(30,67) : results/result.log2169 
+area(30,68) : results/result.log2170 
+area(30,69) : results/result.log2171 
+area(31,0) : results/result.log2172 
+area(31,1) : results/result.log2173 
+area(31,2) : results/result.log2174 
+area(31,3) : results/result.log2175 
+area(31,4) : results/result.log2176 
+area(31,5) : results/result.log2177 
+area(31,6) : results/result.log2178 
+area(31,7) : results/result.log2179 
+area(31,8) : results/result.log2180 
+area(31,9) : results/result.log2181 
+area(31,10) : results/result.log2182 
+area(31,11) : results/result.log2183 
+area(31,12) : results/result.log2184 
+area(31,13) : results/result.log2185 
+area(31,14) : results/result.log2186 
+area(31,15) : results/result.log2187 
+area(31,16) : results/result.log2188 
+area(31,17) : results/result.log2189 
+area(31,18) : results/result.log2190 
+area(31,19) : results/result.log2191 
+area(31,20) : results/result.log2192 
+area(31,21) : results/result.log2193 
+area(31,22) : results/result.log2194 
+area(31,23) : results/result.log2195 
+area(31,24) : results/result.log2196 
+area(31,25) : results/result.log2197 
+area(31,26) : results/result.log2198 
+area(31,27) : results/result.log2199 
+area(31,28) : results/result.log2200 
+area(31,29) : results/result.log2201 
+area(31,30) : results/result.log2202 
+area(31,31) : results/result.log2203 
+area(31,32) : results/result.log2204 
+area(31,33) : results/result.log2205 
+area(31,34) : results/result.log2206 
+area(31,35) : results/result.log2207 
+area(31,36) : results/result.log2208 
+area(31,37) : results/result.log2209 
+area(31,38) : results/result.log2210 
+area(31,39) : results/result.log2211 
+area(31,40) : results/result.log2212 
+area(31,41) : results/result.log2213 
+area(31,42) : results/result.log2214 
+area(31,43) : results/result.log2215 
+area(31,44) : results/result.log2216 
+area(31,45) : results/result.log2217 
+area(31,46) : results/result.log2218 
+area(31,47) : results/result.log2219 
+area(31,48) : results/result.log2220 
+area(31,49) : results/result.log2221 
+area(31,50) : results/result.log2222 
+area(31,51) : results/result.log2223 
+area(31,52) : results/result.log2224 
+area(31,53) : results/result.log2225 
+area(31,54) : results/result.log2226 
+area(31,55) : results/result.log2227 
+area(31,56) : results/result.log2228 
+area(31,57) : results/result.log2229 
+area(31,58) : results/result.log2230 
+area(31,59) : results/result.log2231 
+area(31,60) : results/result.log2232 
+area(31,61) : results/result.log2233 
+area(31,62) : results/result.log2234 
+area(31,63) : results/result.log2235 
+area(31,64) : results/result.log2236 
+area(31,65) : results/result.log2237 
+area(31,66) : results/result.log2238 
+area(31,67) : results/result.log2239 
+area(31,68) : results/result.log2240 
+area(31,69) : results/result.log2241 
+area(32,0) : results/result.log2242 
+area(32,1) : results/result.log2243 
+area(32,2) : results/result.log2244 
+area(32,3) : results/result.log2245 
+area(32,4) : results/result.log2246 
+area(32,5) : results/result.log2247 
+area(32,6) : results/result.log2248 
+area(32,7) : results/result.log2249 
+area(32,8) : results/result.log2250 
+area(32,9) : results/result.log2251 
+area(32,10) : results/result.log2252 
+area(32,11) : results/result.log2253 
+area(32,12) : results/result.log2254 
+area(32,13) : results/result.log2255 
+area(32,14) : results/result.log2256 
+area(32,15) : results/result.log2257 
+area(32,16) : results/result.log2258 
+area(32,17) : results/result.log2259 
+area(32,18) : results/result.log2260 
+area(32,19) : results/result.log2261 
+area(32,20) : results/result.log2262 
+area(32,21) : results/result.log2263 
+area(32,22) : results/result.log2264 
+area(32,23) : results/result.log2265 
+area(32,24) : results/result.log2266 
+area(32,25) : results/result.log2267 
+area(32,26) : results/result.log2268 
+area(32,27) : results/result.log2269 
+area(32,28) : results/result.log2270 
+area(32,29) : results/result.log2271 
+area(32,30) : results/result.log2272 
+area(32,31) : results/result.log2273 
+area(32,32) : results/result.log2274 
+area(32,33) : results/result.log2275 
+area(32,34) : results/result.log2276 
+area(32,35) : results/result.log2277 
+area(32,36) : results/result.log2278 
+area(32,37) : results/result.log2279 
+area(32,38) : results/result.log2280 
+area(32,39) : results/result.log2281 
+area(32,40) : results/result.log2282 
+area(32,41) : results/result.log2283 
+area(32,42) : results/result.log2284 
+area(32,43) : results/result.log2285 
+area(32,44) : results/result.log2286 
+area(32,45) : results/result.log2287 
+area(32,46) : results/result.log2288 
+area(32,47) : results/result.log2289 
+area(32,48) : results/result.log2290 
+area(32,49) : results/result.log2291 
+area(32,50) : results/result.log2292 
+area(32,51) : results/result.log2293 
+area(32,52) : results/result.log2294 
+area(32,53) : results/result.log2295 
+area(32,54) : results/result.log2296 
+area(32,55) : results/result.log2297 
+area(32,56) : results/result.log2298 
+area(32,57) : results/result.log2299 
+area(32,58) : results/result.log2300 
+area(32,59) : results/result.log2301 
+area(32,60) : results/result.log2302 
+area(32,61) : results/result.log2303 
+area(32,62) : results/result.log2304 
+area(32,63) : results/result.log2305 
+area(32,64) : results/result.log2306 
+area(32,65) : results/result.log2307 
+area(32,66) : results/result.log2308 
+area(32,67) : results/result.log2309 
+area(32,68) : results/result.log2310 
+area(32,69) : results/result.log2311 
+area(33,0) : results/result.log2312 
+area(33,1) : results/result.log2313 
+area(33,2) : results/result.log2314 
+area(33,3) : results/result.log2315 
+area(33,4) : results/result.log2316 
+area(33,5) : results/result.log2317 
+area(33,6) : results/result.log2318 
+area(33,7) : results/result.log2319 
+area(33,8) : results/result.log2320 
+area(33,9) : results/result.log2321 
+area(33,10) : results/result.log2322 
+area(33,11) : results/result.log2323 
+area(33,12) : results/result.log2324 
+area(33,13) : results/result.log2325 
+area(33,14) : results/result.log2326 
+area(33,15) : results/result.log2327 
+area(33,16) : results/result.log2328 
+area(33,17) : results/result.log2329 
+area(33,18) : results/result.log2330 
+area(33,19) : results/result.log2331 
+area(33,20) : results/result.log2332 
+area(33,21) : results/result.log2333 
+area(33,22) : results/result.log2334 
+area(33,23) : results/result.log2335 
+area(33,24) : results/result.log2336 
+area(33,25) : results/result.log2337 
+area(33,26) : results/result.log2338 
+area(33,27) : results/result.log2339 
+area(33,28) : results/result.log2340 
+area(33,29) : results/result.log2341 
+area(33,30) : results/result.log2342 
+area(33,31) : results/result.log2343 
+area(33,32) : results/result.log2344 
+area(33,33) : results/result.log2345 
+area(33,34) : results/result.log2346 
+area(33,35) : results/result.log2347 
+area(33,36) : results/result.log2348 
+area(33,37) : results/result.log2349 
+area(33,38) : results/result.log2350 
+area(33,39) : results/result.log2351 
+area(33,40) : results/result.log2352 
+area(33,41) : results/result.log2353 
+area(33,42) : results/result.log2354 
+area(33,43) : results/result.log2355 
+area(33,44) : results/result.log2356 
+area(33,45) : results/result.log2357 
+area(33,46) : results/result.log2358 
+area(33,47) : results/result.log2359 
+area(33,48) : results/result.log2360 
+area(33,49) : results/result.log2361 
+area(33,50) : results/result.log2362 
+area(33,51) : results/result.log2363 
+area(33,52) : results/result.log2364 
+area(33,53) : results/result.log2365 
+area(33,54) : results/result.log2366 
+area(33,55) : results/result.log2367 
+area(33,56) : results/result.log2368 
+area(33,57) : results/result.log2369 
+area(33,58) : results/result.log2370 
+area(33,59) : results/result.log2371 
+area(33,60) : results/result.log2372 
+area(33,61) : results/result.log2373 
+area(33,62) : results/result.log2374 
+area(33,63) : results/result.log2375 
+area(33,64) : results/result.log2376 
+area(33,65) : results/result.log2377 
+area(33,66) : results/result.log2378 
+area(33,67) : results/result.log2379 
+area(33,68) : results/result.log2380 
+area(33,69) : results/result.log2381 
+area(34,0) : results/result.log2382 
+area(34,1) : results/result.log2383 
+area(34,2) : results/result.log2384 
+area(34,3) : results/result.log2385 
+area(34,4) : results/result.log2386 
+area(34,5) : results/result.log2387 
+area(34,6) : results/result.log2388 
+area(34,7) : results/result.log2389 
+area(34,8) : results/result.log2390 
+area(34,9) : results/result.log2391 
+area(34,10) : results/result.log2392 
+area(34,11) : results/result.log2393 
+area(34,12) : results/result.log2394 
+area(34,13) : results/result.log2395 
+area(34,14) : results/result.log2396 
+area(34,15) : results/result.log2397 
+area(34,16) : results/result.log2398 
+area(34,17) : results/result.log2399 
+area(34,18) : results/result.log2400 
+area(34,19) : results/result.log2401 
+area(34,20) : results/result.log2402 
+area(34,21) : results/result.log2403 
+area(34,22) : results/result.log2404 
+area(34,23) : results/result.log2405 
+area(34,24) : results/result.log2406 
+area(34,25) : results/result.log2407 
+area(34,26) : results/result.log2408 
+area(34,27) : results/result.log2409 
+area(34,28) : results/result.log2410 
+area(34,29) : results/result.log2411 
+area(34,30) : results/result.log2412 
+area(34,31) : results/result.log2413 
+area(34,32) : results/result.log2414 
+area(34,33) : results/result.log2415 
+area(34,34) : results/result.log2416 
+area(34,35) : results/result.log2417 
+area(34,36) : results/result.log2418 
+area(34,37) : results/result.log2419 
+area(34,38) : results/result.log2420 
+area(34,39) : results/result.log2421 
+area(34,40) : results/result.log2422 
+area(34,41) : results/result.log2423 
+area(34,42) : results/result.log2424 
+area(34,43) : results/result.log2425 
+area(34,44) : results/result.log2426 
+area(34,45) : results/result.log2427 
+area(34,46) : results/result.log2428 
+area(34,47) : results/result.log2429 
+area(34,48) : results/result.log2430 
+area(34,49) : results/result.log2431 
+area(34,50) : results/result.log2432 
+area(34,51) : results/result.log2433 
+area(34,52) : results/result.log2434 
+area(34,53) : results/result.log2435 
+area(34,54) : results/result.log2436 
+area(34,55) : results/result.log2437 
+area(34,56) : results/result.log2438 
+area(34,57) : results/result.log2439 
+area(34,58) : results/result.log2440 
+area(34,59) : results/result.log2441 
+area(34,60) : results/result.log2442 
+area(34,61) : results/result.log2443 
+area(34,62) : results/result.log2444 
+area(34,63) : results/result.log2445 
+area(34,64) : results/result.log2446 
+area(34,65) : results/result.log2447 
+area(34,66) : results/result.log2448 
+area(34,67) : results/result.log2449 
+area(34,68) : results/result.log2450 
+area(34,69) : results/result.log2451 
+area(35,0) : results/result.log2452 
+area(35,1) : results/result.log2453 
+area(35,2) : results/result.log2454 
+area(35,3) : results/result.log2455 
+area(35,4) : results/result.log2456 
+area(35,5) : results/result.log2457 
+area(35,6) : results/result.log2458 
+area(35,7) : results/result.log2459 
+area(35,8) : results/result.log2460 
+area(35,9) : results/result.log2461 
+area(35,10) : results/result.log2462 
+area(35,11) : results/result.log2463 
+area(35,12) : results/result.log2464 
+area(35,13) : results/result.log2465 
+area(35,14) : results/result.log2466 
+area(35,15) : results/result.log2467 
+area(35,16) : results/result.log2468 
+area(35,17) : results/result.log2469 
+area(35,18) : results/result.log2470 
+area(35,19) : results/result.log2471 
+area(35,20) : results/result.log2472 
+area(35,21) : results/result.log2473 
+area(35,22) : results/result.log2474 
+area(35,23) : results/result.log2475 
+area(35,24) : results/result.log2476 
+area(35,25) : results/result.log2477 
+area(35,26) : results/result.log2478 
+area(35,27) : results/result.log2479 
+area(35,28) : results/result.log2480 
+area(35,29) : results/result.log2481 
+area(35,30) : results/result.log2482 
+area(35,31) : results/result.log2483 
+area(35,32) : results/result.log2484 
+area(35,33) : results/result.log2485 
+area(35,34) : results/result.log2486 
+area(35,35) : results/result.log2487 
+area(35,36) : results/result.log2488 
+area(35,37) : results/result.log2489 
+area(35,38) : results/result.log2490 
+area(35,39) : results/result.log2491 
+area(35,40) : results/result.log2492 
+area(35,41) : results/result.log2493 
+area(35,42) : results/result.log2494 
+area(35,43) : results/result.log2495 
+area(35,44) : results/result.log2496 
+area(35,45) : results/result.log2497 
+area(35,46) : results/result.log2498 
+area(35,47) : results/result.log2499 
+area(35,48) : results/result.log2500 
+area(35,49) : results/result.log2501 
+area(35,50) : results/result.log2502 
+area(35,51) : results/result.log2503 
+area(35,52) : results/result.log2504 
+area(35,53) : results/result.log2505 
+area(35,54) : results/result.log2506 
+area(35,55) : results/result.log2507 
+area(35,56) : results/result.log2508 
+area(35,57) : results/result.log2509 
+area(35,58) : results/result.log2510 
+area(35,59) : results/result.log2511 
+area(35,60) : results/result.log2512 
+area(35,61) : results/result.log2513 
+area(35,62) : results/result.log2514 
+area(35,63) : results/result.log2515 
+area(35,64) : results/result.log2516 
+area(35,65) : results/result.log2517 
+area(35,66) : results/result.log2518 
+area(35,67) : results/result.log2519 
+area(35,68) : results/result.log2520 
+area(35,69) : results/result.log2521 
+area(36,0) : results/result.log2522 
+area(36,1) : results/result.log2523 
+area(36,2) : results/result.log2524 
+area(36,3) : results/result.log2525 
+area(36,4) : results/result.log2526 
+area(36,5) : results/result.log2527 
+area(36,6) : results/result.log2528 
+area(36,7) : results/result.log2529 
+area(36,8) : results/result.log2530 
+area(36,9) : results/result.log2531 
+area(36,10) : results/result.log2532 
+area(36,11) : results/result.log2533 
+area(36,12) : results/result.log2534 
+area(36,13) : results/result.log2535 
+area(36,14) : results/result.log2536 
+area(36,15) : results/result.log2537 
+area(36,16) : results/result.log2538 
+area(36,17) : results/result.log2539 
+area(36,18) : results/result.log2540 
+area(36,19) : results/result.log2541 
+area(36,20) : results/result.log2542 
+area(36,21) : results/result.log2543 
+area(36,22) : results/result.log2544 
+area(36,23) : results/result.log2545 
+area(36,24) : results/result.log2546 
+area(36,25) : results/result.log2547 
+area(36,26) : results/result.log2548 
+area(36,27) : results/result.log2549 
+area(36,28) : results/result.log2550 
+area(36,29) : results/result.log2551 
+area(36,30) : results/result.log2552 
+area(36,31) : results/result.log2553 
+area(36,32) : results/result.log2554 
+area(36,33) : results/result.log2555 
+area(36,34) : results/result.log2556 
+area(36,35) : results/result.log2557 
+area(36,36) : results/result.log2558 
+area(36,37) : results/result.log2559 
+area(36,38) : results/result.log2560 
+area(36,39) : results/result.log2561 
+area(36,40) : results/result.log2562 
+area(36,41) : results/result.log2563 
+area(36,42) : results/result.log2564 
+area(36,43) : results/result.log2565 
+area(36,44) : results/result.log2566 
+area(36,45) : results/result.log2567 
+area(36,46) : results/result.log2568 
+area(36,47) : results/result.log2569 
+area(36,48) : results/result.log2570 
+area(36,49) : results/result.log2571 
+area(36,50) : results/result.log2572 
+area(36,51) : results/result.log2573 
+area(36,52) : results/result.log2574 
+area(36,53) : results/result.log2575 
+area(36,54) : results/result.log2576 
+area(36,55) : results/result.log2577 
+area(36,56) : results/result.log2578 
+area(36,57) : results/result.log2579 
+area(36,58) : results/result.log2580 
+area(36,59) : results/result.log2581 
+area(36,60) : results/result.log2582 
+area(36,61) : results/result.log2583 
+area(36,62) : results/result.log2584 
+area(36,63) : results/result.log2585 
+area(36,64) : results/result.log2586 
+area(36,65) : results/result.log2587 
+area(36,66) : results/result.log2588 
+area(36,67) : results/result.log2589 
+area(36,68) : results/result.log2590 
+area(36,69) : results/result.log2591 
+area(37,0) : results/result.log2592 
+area(37,1) : results/result.log2593 
+area(37,2) : results/result.log2594 
+area(37,3) : results/result.log2595 
+area(37,4) : results/result.log2596 
+area(37,5) : results/result.log2597 
+area(37,6) : results/result.log2598 
+area(37,7) : results/result.log2599 
+area(37,8) : results/result.log2600 
+area(37,9) : results/result.log2601 
+area(37,10) : results/result.log2602 
+area(37,11) : results/result.log2603 
+area(37,12) : results/result.log2604 
+area(37,13) : results/result.log2605 
+area(37,14) : results/result.log2606 
+area(37,15) : results/result.log2607 
+area(37,16) : results/result.log2608 
+area(37,17) : results/result.log2609 
+area(37,18) : results/result.log2610 
+area(37,19) : results/result.log2611 
+area(37,20) : results/result.log2612 
+area(37,21) : results/result.log2613 
+area(37,22) : results/result.log2614 
+area(37,23) : results/result.log2615 
+area(37,24) : results/result.log2616 
+area(37,25) : results/result.log2617 
+area(37,26) : results/result.log2618 
+area(37,27) : results/result.log2619 
+area(37,28) : results/result.log2620 
+area(37,29) : results/result.log2621 
+area(37,30) : results/result.log2622 
+area(37,31) : results/result.log2623 
+area(37,32) : results/result.log2624 
+area(37,33) : results/result.log2625 
+area(37,34) : results/result.log2626 
+area(37,35) : results/result.log2627 
+area(37,36) : results/result.log2628 
+area(37,37) : results/result.log2629 
+area(37,38) : results/result.log2630 
+area(37,39) : results/result.log2631 
+area(37,40) : results/result.log2632 
+area(37,41) : results/result.log2633 
+area(37,42) : results/result.log2634 
+area(37,43) : results/result.log2635 
+area(37,44) : results/result.log2636 
+area(37,45) : results/result.log2637 
+area(37,46) : results/result.log2638 
+area(37,47) : results/result.log2639 
+area(37,48) : results/result.log2640 
+area(37,49) : results/result.log2641 
+area(37,50) : results/result.log2642 
+area(37,51) : results/result.log2643 
+area(37,52) : results/result.log2644 
+area(37,53) : results/result.log2645 
+area(37,54) : results/result.log2646 
+area(37,55) : results/result.log2647 
+area(37,56) : results/result.log2648 
+area(37,57) : results/result.log2649 
+area(37,58) : results/result.log2650 
+area(37,59) : results/result.log2651 
+area(37,60) : results/result.log2652 
+area(37,61) : results/result.log2653 
+area(37,62) : results/result.log2654 
+area(37,63) : results/result.log2655 
+area(37,64) : results/result.log2656 
+area(37,65) : results/result.log2657 
+area(37,66) : results/result.log2658 
+area(37,67) : results/result.log2659 
+area(37,68) : results/result.log2660 
+area(37,69) : results/result.log2661 
+area(38,0) : results/result.log2662 
+area(38,1) : results/result.log2663 
+area(38,2) : results/result.log2664 
+area(38,3) : results/result.log2665 
+area(38,4) : results/result.log2666 
+area(38,5) : results/result.log2667 
+area(38,6) : results/result.log2668 
+area(38,7) : results/result.log2669 
+area(38,8) : results/result.log2670 
+area(38,9) : results/result.log2671 
+area(38,10) : results/result.log2672 
+area(38,11) : results/result.log2673 
+area(38,12) : results/result.log2674 
+area(38,13) : results/result.log2675 
+area(38,14) : results/result.log2676 
+area(38,15) : results/result.log2677 
+area(38,16) : results/result.log2678 
+area(38,17) : results/result.log2679 
+area(38,18) : results/result.log2680 
+area(38,19) : results/result.log2681 
+area(38,20) : results/result.log2682 
+area(38,21) : results/result.log2683 
+area(38,22) : results/result.log2684 
+area(38,23) : results/result.log2685 
+area(38,24) : results/result.log2686 
+area(38,25) : results/result.log2687 
+area(38,26) : results/result.log2688 
+area(38,27) : results/result.log2689 
+area(38,28) : results/result.log2690 
+area(38,29) : results/result.log2691 
+area(38,30) : results/result.log2692 
+area(38,31) : results/result.log2693 
+area(38,32) : results/result.log2694 
+area(38,33) : results/result.log2695 
+area(38,34) : results/result.log2696 
+area(38,35) : results/result.log2697 
+area(38,36) : results/result.log2698 
+area(38,37) : results/result.log2699 
+area(38,38) : results/result.log2700 
+area(38,39) : results/result.log2701 
+area(38,40) : results/result.log2702 
+area(38,41) : results/result.log2703 
+area(38,42) : results/result.log2704 
+area(38,43) : results/result.log2705 
+area(38,44) : results/result.log2706 
+area(38,45) : results/result.log2707 
+area(38,46) : results/result.log2708 
+area(38,47) : results/result.log2709 
+area(38,48) : results/result.log2710 
+area(38,49) : results/result.log2711 
+area(38,50) : results/result.log2712 
+area(38,51) : results/result.log2713 
+area(38,52) : results/result.log2714 
+area(38,53) : results/result.log2715 
+area(38,54) : results/result.log2716 
+area(38,55) : results/result.log2717 
+area(38,56) : results/result.log2718 
+area(38,57) : results/result.log2719 
+area(38,58) : results/result.log2720 
+area(38,59) : results/result.log2721 
+area(38,60) : results/result.log2722 
+area(38,61) : results/result.log2723 
+area(38,62) : results/result.log2724 
+area(38,63) : results/result.log2725 
+area(38,64) : results/result.log2726 
+area(38,65) : results/result.log2727 
+area(38,66) : results/result.log2728 
+area(38,67) : results/result.log2729 
+area(38,68) : results/result.log2730 
+area(38,69) : results/result.log2731 
+area(39,0) : results/result.log2732 
+area(39,1) : results/result.log2733 
+area(39,2) : results/result.log2734 
+area(39,3) : results/result.log2735 
+area(39,4) : results/result.log2736 
+area(39,5) : results/result.log2737 
+area(39,6) : results/result.log2738 
+area(39,7) : results/result.log2739 
+area(39,8) : results/result.log2740 
+area(39,9) : results/result.log2741 
+area(39,10) : results/result.log2742 
+area(39,11) : results/result.log2743 
+area(39,12) : results/result.log2744 
+area(39,13) : results/result.log2745 
+area(39,14) : results/result.log2746 
+area(39,15) : results/result.log2747 
+area(39,16) : results/result.log2748 
+area(39,17) : results/result.log2749 
+area(39,18) : results/result.log2750 
+area(39,19) : results/result.log2751 
+area(39,20) : results/result.log2752 
+area(39,21) : results/result.log2753 
+area(39,22) : results/result.log2754 
+area(39,23) : results/result.log2755 
+area(39,24) : results/result.log2756 
+area(39,25) : results/result.log2757 
+area(39,26) : results/result.log2758 
+area(39,27) : results/result.log2759 
+area(39,28) : results/result.log2760 
+area(39,29) : results/result.log2761 
+area(39,30) : results/result.log2762 
+area(39,31) : results/result.log2763 
+area(39,32) : results/result.log2764 
+area(39,33) : results/result.log2765 
+area(39,34) : results/result.log2766 
+area(39,35) : results/result.log2767 
+area(39,36) : results/result.log2768 
+area(39,37) : results/result.log2769 
+area(39,38) : results/result.log2770 
+area(39,39) : results/result.log2771 
+area(39,40) : results/result.log2772 
+area(39,41) : results/result.log2773 
+area(39,42) : results/result.log2774 
+area(39,43) : results/result.log2775 
+area(39,44) : results/result.log2776 
+area(39,45) : results/result.log2777 
+area(39,46) : results/result.log2778 
+area(39,47) : results/result.log2779 
+area(39,48) : results/result.log2780 
+area(39,49) : results/result.log2781 
+area(39,50) : results/result.log2782 
+area(39,51) : results/result.log2783 
+area(39,52) : results/result.log2784 
+area(39,53) : results/result.log2785 
+area(39,54) : results/result.log2786 
+area(39,55) : results/result.log2787 
+area(39,56) : results/result.log2788 
+area(39,57) : results/result.log2789 
+area(39,58) : results/result.log2790 
+area(39,59) : results/result.log2791 
+area(39,60) : results/result.log2792 
+area(39,61) : results/result.log2793 
+area(39,62) : results/result.log2794 
+area(39,63) : results/result.log2795 
+area(39,64) : results/result.log2796 
+area(39,65) : results/result.log2797 
+area(39,66) : results/result.log2798 
+area(39,67) : results/result.log2799 
+area(39,68) : results/result.log2800 
+area(39,69) : results/result.log2801 
+area(40,0) : results/result.log2802 
+area(40,1) : results/result.log2803 
+area(40,2) : results/result.log2804 
+area(40,3) : results/result.log2805 
+area(40,4) : results/result.log2806 
+area(40,5) : results/result.log2807 
+area(40,6) : results/result.log2808 
+area(40,7) : results/result.log2809 
+area(40,8) : results/result.log2810 
+area(40,9) : results/result.log2811 
+area(40,10) : results/result.log2812 
+area(40,11) : results/result.log2813 
+area(40,12) : results/result.log2814 
+area(40,13) : results/result.log2815 
+area(40,14) : results/result.log2816 
+area(40,15) : results/result.log2817 
+area(40,16) : results/result.log2818 
+area(40,17) : results/result.log2819 
+area(40,18) : results/result.log2820 
+area(40,19) : results/result.log2821 
+area(40,20) : results/result.log2822 
+area(40,21) : results/result.log2823 
+area(40,22) : results/result.log2824 
+area(40,23) : results/result.log2825 
+area(40,24) : results/result.log2826 
+area(40,25) : results/result.log2827 
+area(40,26) : results/result.log2828 
+area(40,27) : results/result.log2829 
+area(40,28) : results/result.log2830 
+area(40,29) : results/result.log2831 
+area(40,30) : results/result.log2832 
+area(40,31) : results/result.log2833 
+area(40,32) : results/result.log2834 
+area(40,33) : results/result.log2835 
+area(40,34) : results/result.log2836 
+area(40,35) : results/result.log2837 
+area(40,36) : results/result.log2838 
+area(40,37) : results/result.log2839 
+area(40,38) : results/result.log2840 
+area(40,39) : results/result.log2841 
+area(40,40) : results/result.log2842 
+area(40,41) : results/result.log2843 
+area(40,42) : results/result.log2844 
+area(40,43) : results/result.log2845 
+area(40,44) : results/result.log2846 
+area(40,45) : results/result.log2847 
+area(40,46) : results/result.log2848 
+area(40,47) : results/result.log2849 
+area(40,48) : results/result.log2850 
+area(40,49) : results/result.log2851 
+area(40,50) : results/result.log2852 
+area(40,51) : results/result.log2853 
+area(40,52) : results/result.log2854 
+area(40,53) : results/result.log2855 
+area(40,54) : results/result.log2856 
+area(40,55) : results/result.log2857 
+area(40,56) : results/result.log2858 
+area(40,57) : results/result.log2859 
+area(40,58) : results/result.log2860 
+area(40,59) : results/result.log2861 
+area(40,60) : results/result.log2862 
+area(40,61) : results/result.log2863 
+area(40,62) : results/result.log2864 
+area(40,63) : results/result.log2865 
+area(40,64) : results/result.log2866 
+area(40,65) : results/result.log2867 
+area(40,66) : results/result.log2868 
+area(40,67) : results/result.log2869 
+area(40,68) : results/result.log2870 
+area(40,69) : results/result.log2871 
+area(41,0) : results/result.log2872 
+area(41,1) : results/result.log2873 
+area(41,2) : results/result.log2874 
+area(41,3) : results/result.log2875 
+area(41,4) : results/result.log2876 
+area(41,5) : results/result.log2877 
+area(41,6) : results/result.log2878 
+area(41,7) : results/result.log2879 
+area(41,8) : results/result.log2880 
+area(41,9) : results/result.log2881 
+area(41,10) : results/result.log2882 
+area(41,11) : results/result.log2883 
+area(41,12) : results/result.log2884 
+area(41,13) : results/result.log2885 
+area(41,14) : results/result.log2886 
+area(41,15) : results/result.log2887 
+area(41,16) : results/result.log2888 
+area(41,17) : results/result.log2889 
+area(41,18) : results/result.log2890 
+area(41,19) : results/result.log2891 
+area(41,20) : results/result.log2892 
+area(41,21) : results/result.log2893 
+area(41,22) : results/result.log2894 
+area(41,23) : results/result.log2895 
+area(41,24) : results/result.log2896 
+area(41,25) : results/result.log2897 
+area(41,26) : results/result.log2898 
+area(41,27) : results/result.log2899 
+area(41,28) : results/result.log2900 
+area(41,29) : results/result.log2901 
+area(41,30) : results/result.log2902 
+area(41,31) : results/result.log2903 
+area(41,32) : results/result.log2904 
+area(41,33) : results/result.log2905 
+area(41,34) : results/result.log2906 
+area(41,35) : results/result.log2907 
+area(41,36) : results/result.log2908 
+area(41,37) : results/result.log2909 
+area(41,38) : results/result.log2910 
+area(41,39) : results/result.log2911 
+area(41,40) : results/result.log2912 
+area(41,41) : results/result.log2913 
+area(41,42) : results/result.log2914 
+area(41,43) : results/result.log2915 
+area(41,44) : results/result.log2916 
+area(41,45) : results/result.log2917 
+area(41,46) : results/result.log2918 
+area(41,47) : results/result.log2919 
+area(41,48) : results/result.log2920 
+area(41,49) : results/result.log2921 
+area(41,50) : results/result.log2922 
+area(41,51) : results/result.log2923 
+area(41,52) : results/result.log2924 
+area(41,53) : results/result.log2925 
+area(41,54) : results/result.log2926 
+area(41,55) : results/result.log2927 
+area(41,56) : results/result.log2928 
+area(41,57) : results/result.log2929 
+area(41,58) : results/result.log2930 
+area(41,59) : results/result.log2931 
+area(41,60) : results/result.log2932 
+area(41,61) : results/result.log2933 
+area(41,62) : results/result.log2934 
+area(41,63) : results/result.log2935 
+area(41,64) : results/result.log2936 
+area(41,65) : results/result.log2937 
+area(41,66) : results/result.log2938 
+area(41,67) : results/result.log2939 
+area(41,68) : results/result.log2940 
+area(41,69) : results/result.log2941 
+area(42,0) : results/result.log2942 
+area(42,1) : results/result.log2943 
+area(42,2) : results/result.log2944 
+area(42,3) : results/result.log2945 
+area(42,4) : results/result.log2946 
+area(42,5) : results/result.log2947 
+area(42,6) : results/result.log2948 
+area(42,7) : results/result.log2949 
+area(42,8) : results/result.log2950 
+area(42,9) : results/result.log2951 
+area(42,10) : results/result.log2952 
+area(42,11) : results/result.log2953 
+area(42,12) : results/result.log2954 
+area(42,13) : results/result.log2955 
+area(42,14) : results/result.log2956 
+area(42,15) : results/result.log2957 
+area(42,16) : results/result.log2958 
+area(42,17) : results/result.log2959 
+area(42,18) : results/result.log2960 
+area(42,19) : results/result.log2961 
+area(42,20) : results/result.log2962 
+area(42,21) : results/result.log2963 
+area(42,22) : results/result.log2964 
+area(42,23) : results/result.log2965 
+area(42,24) : results/result.log2966 
+area(42,25) : results/result.log2967 
+area(42,26) : results/result.log2968 
+area(42,27) : results/result.log2969 
+area(42,28) : results/result.log2970 
+area(42,29) : results/result.log2971 
+area(42,30) : results/result.log2972 
+area(42,31) : results/result.log2973 
+area(42,32) : results/result.log2974 
+area(42,33) : results/result.log2975 
+area(42,34) : results/result.log2976 
+area(42,35) : results/result.log2977 
+area(42,36) : results/result.log2978 
+area(42,37) : results/result.log2979 
+area(42,38) : results/result.log2980 
+area(42,39) : results/result.log2981 
+area(42,40) : results/result.log2982 
+area(42,41) : results/result.log2983 
+area(42,42) : results/result.log2984 
+area(42,43) : results/result.log2985 
+area(42,44) : results/result.log2986 
+area(42,45) : results/result.log2987 
+area(42,46) : results/result.log2988 
+area(42,47) : results/result.log2989 
+area(42,48) : results/result.log2990 
+area(42,49) : results/result.log2991 
+area(42,50) : results/result.log2992 
+area(42,51) : results/result.log2993 
+area(42,52) : results/result.log2994 
+area(42,53) : results/result.log2995 
+area(42,54) : results/result.log2996 
+area(42,55) : results/result.log2997 
+area(42,56) : results/result.log2998 
+area(42,57) : results/result.log2999 
+area(42,58) : results/result.log3000 
+area(42,59) : results/result.log3001 
+area(42,60) : results/result.log3002 
+area(42,61) : results/result.log3003 
+area(42,62) : results/result.log3004 
+area(42,63) : results/result.log3005 
+area(42,64) : results/result.log3006 
+area(42,65) : results/result.log3007 
+area(42,66) : results/result.log3008 
+area(42,67) : results/result.log3009 
+area(42,68) : results/result.log3010 
+area(42,69) : results/result.log3011 
+area(43,0) : results/result.log3012 
+area(43,1) : results/result.log3013 
+area(43,2) : results/result.log3014 
+area(43,3) : results/result.log3015 
+area(43,4) : results/result.log3016 
+area(43,5) : results/result.log3017 
+area(43,6) : results/result.log3018 
+area(43,7) : results/result.log3019 
+area(43,8) : results/result.log3020 
+area(43,9) : results/result.log3021 
+area(43,10) : results/result.log3022 
+area(43,11) : results/result.log3023 
+area(43,12) : results/result.log3024 
+area(43,13) : results/result.log3025 
+area(43,14) : results/result.log3026 
+area(43,15) : results/result.log3027 
+area(43,16) : results/result.log3028 
+area(43,17) : results/result.log3029 
+area(43,18) : results/result.log3030 
+area(43,19) : results/result.log3031 
+area(43,20) : results/result.log3032 
+area(43,21) : results/result.log3033 
+area(43,22) : results/result.log3034 
+area(43,23) : results/result.log3035 
+area(43,24) : results/result.log3036 
+area(43,25) : results/result.log3037 
+area(43,26) : results/result.log3038 
+area(43,27) : results/result.log3039 
+area(43,28) : results/result.log3040 
+area(43,29) : results/result.log3041 
+area(43,30) : results/result.log3042 
+area(43,31) : results/result.log3043 
+area(43,32) : results/result.log3044 
+area(43,33) : results/result.log3045 
+area(43,34) : results/result.log3046 
+area(43,35) : results/result.log3047 
+area(43,36) : results/result.log3048 
+area(43,37) : results/result.log3049 
+area(43,38) : results/result.log3050 
+area(43,39) : results/result.log3051 
+area(43,40) : results/result.log3052 
+area(43,41) : results/result.log3053 
+area(43,42) : results/result.log3054 
+area(43,43) : results/result.log3055 
+area(43,44) : results/result.log3056 
+area(43,45) : results/result.log3057 
+area(43,46) : results/result.log3058 
+area(43,47) : results/result.log3059 
+area(43,48) : results/result.log3060 
+area(43,49) : results/result.log3061 
+area(43,50) : results/result.log3062 
+area(43,51) : results/result.log3063 
+area(43,52) : results/result.log3064 
+area(43,53) : results/result.log3065 
+area(43,54) : results/result.log3066 
+area(43,55) : results/result.log3067 
+area(43,56) : results/result.log3068 
+area(43,57) : results/result.log3069 
+area(43,58) : results/result.log3070 
+area(43,59) : results/result.log3071 
+area(43,60) : results/result.log3072 
+area(43,61) : results/result.log3073 
+area(43,62) : results/result.log3074 
+area(43,63) : results/result.log3075 
+area(43,64) : results/result.log3076 
+area(43,65) : results/result.log3077 
+area(43,66) : results/result.log3078 
+area(43,67) : results/result.log3079 
+area(43,68) : results/result.log3080 
+area(43,69) : results/result.log3081 
+area(44,0) : results/result.log3082 
+area(44,1) : results/result.log3083 
+area(44,2) : results/result.log3084 
+area(44,3) : results/result.log3085 
+area(44,4) : results/result.log3086 
+area(44,5) : results/result.log3087 
+area(44,6) : results/result.log3088 
+area(44,7) : results/result.log3089 
+area(44,8) : results/result.log3090 
+area(44,9) : results/result.log3091 
+area(44,10) : results/result.log3092 
+area(44,11) : results/result.log3093 
+area(44,12) : results/result.log3094 
+area(44,13) : results/result.log3095 
+area(44,14) : results/result.log3096 
+area(44,15) : results/result.log3097 
+area(44,16) : results/result.log3098 
+area(44,17) : results/result.log3099 
+area(44,18) : results/result.log3100 
+area(44,19) : results/result.log3101 
+area(44,20) : results/result.log3102 
+area(44,21) : results/result.log3103 
+area(44,22) : results/result.log3104 
+area(44,23) : results/result.log3105 
+area(44,24) : results/result.log3106 
+area(44,25) : results/result.log3107 
+area(44,26) : results/result.log3108 
+area(44,27) : results/result.log3109 
+area(44,28) : results/result.log3110 
+area(44,29) : results/result.log3111 
+area(44,30) : results/result.log3112 
+area(44,31) : results/result.log3113 
+area(44,32) : results/result.log3114 
+area(44,33) : results/result.log3115 
+area(44,34) : results/result.log3116 
+area(44,35) : results/result.log3117 
+area(44,36) : results/result.log3118 
+area(44,37) : results/result.log3119 
+area(44,38) : results/result.log3120 
+area(44,39) : results/result.log3121 
+area(44,40) : results/result.log3122 
+area(44,41) : results/result.log3123 
+area(44,42) : results/result.log3124 
+area(44,43) : results/result.log3125 
+area(44,44) : results/result.log3126 
+area(44,45) : results/result.log3127 
+area(44,46) : results/result.log3128 
+area(44,47) : results/result.log3129 
+area(44,48) : results/result.log3130 
+area(44,49) : results/result.log3131 
+area(44,50) : results/result.log3132 
+area(44,51) : results/result.log3133 
+area(44,52) : results/result.log3134 
+area(44,53) : results/result.log3135 
+area(44,54) : results/result.log3136 
+area(44,55) : results/result.log3137 
+area(44,56) : results/result.log3138 
+area(44,57) : results/result.log3139 
+area(44,58) : results/result.log3140 
+area(44,59) : results/result.log3141 
+area(44,60) : results/result.log3142 
+area(44,61) : results/result.log3143 
+area(44,62) : results/result.log3144 
+area(44,63) : results/result.log3145 
+area(44,64) : results/result.log3146 
+area(44,65) : results/result.log3147 
+area(44,66) : results/result.log3148 
+area(44,67) : results/result.log3149 
+area(44,68) : results/result.log3150 
+area(44,69) : results/result.log3151 
+area(45,0) : results/result.log3152 
+area(45,1) : results/result.log3153 
+area(45,2) : results/result.log3154 
+area(45,3) : results/result.log3155 
+area(45,4) : results/result.log3156 
+area(45,5) : results/result.log3157 
+area(45,6) : results/result.log3158 
+area(45,7) : results/result.log3159 
+area(45,8) : results/result.log3160 
+area(45,9) : results/result.log3161 
+area(45,10) : results/result.log3162 
+area(45,11) : results/result.log3163 
+area(45,12) : results/result.log3164 
+area(45,13) : results/result.log3165 
+area(45,14) : results/result.log3166 
+area(45,15) : results/result.log3167 
+area(45,16) : results/result.log3168 
+area(45,17) : results/result.log3169 
+area(45,18) : results/result.log3170 
+area(45,19) : results/result.log3171 
+area(45,20) : results/result.log3172 
+area(45,21) : results/result.log3173 
+area(45,22) : results/result.log3174 
+area(45,23) : results/result.log3175 
+area(45,24) : results/result.log3176 
+area(45,25) : results/result.log3177 
+area(45,26) : results/result.log3178 
+area(45,27) : results/result.log3179 
+area(45,28) : results/result.log3180 
+area(45,29) : results/result.log3181 
+area(45,30) : results/result.log3182 
+area(45,31) : results/result.log3183 
+area(45,32) : results/result.log3184 
+area(45,33) : results/result.log3185 
+area(45,34) : results/result.log3186 
+area(45,35) : results/result.log3187 
+area(45,36) : results/result.log3188 
+area(45,37) : results/result.log3189 
+area(45,38) : results/result.log3190 
+area(45,39) : results/result.log3191 
+area(45,40) : results/result.log3192 
+area(45,41) : results/result.log3193 
+area(45,42) : results/result.log3194 
+area(45,43) : results/result.log3195 
+area(45,44) : results/result.log3196 
+area(45,45) : results/result.log3197 
+area(45,46) : results/result.log3198 
+area(45,47) : results/result.log3199 
+area(45,48) : results/result.log3200 
+area(45,49) : results/result.log3201 
+area(45,50) : results/result.log3202 
+area(45,51) : results/result.log3203 
+area(45,52) : results/result.log3204 
+area(45,53) : results/result.log3205 
+area(45,54) : results/result.log3206 
+area(45,55) : results/result.log3207 
+area(45,56) : results/result.log3208 
+area(45,57) : results/result.log3209 
+area(45,58) : results/result.log3210 
+area(45,59) : results/result.log3211 
+area(45,60) : results/result.log3212 
+area(45,61) : results/result.log3213 
+area(45,62) : results/result.log3214 
+area(45,63) : results/result.log3215 
+area(45,64) : results/result.log3216 
+area(45,65) : results/result.log3217 
+area(45,66) : results/result.log3218 
+area(45,67) : results/result.log3219 
+area(45,68) : results/result.log3220 
+area(45,69) : results/result.log3221 
+area(46,0) : results/result.log3222 
+area(46,1) : results/result.log3223 
+area(46,2) : results/result.log3224 
+area(46,3) : results/result.log3225 
+area(46,4) : results/result.log3226 
+area(46,5) : results/result.log3227 
+area(46,6) : results/result.log3228 
+area(46,7) : results/result.log3229 
+area(46,8) : results/result.log3230 
+area(46,9) : results/result.log3231 
+area(46,10) : results/result.log3232 
+area(46,11) : results/result.log3233 
+area(46,12) : results/result.log3234 
+area(46,13) : results/result.log3235 
+area(46,14) : results/result.log3236 
+area(46,15) : results/result.log3237 
+area(46,16) : results/result.log3238 
+area(46,17) : results/result.log3239 
+area(46,18) : results/result.log3240 
+area(46,19) : results/result.log3241 
+area(46,20) : results/result.log3242 
+area(46,21) : results/result.log3243 
+area(46,22) : results/result.log3244 
+area(46,23) : results/result.log3245 
+area(46,24) : results/result.log3246 
+area(46,25) : results/result.log3247 
+area(46,26) : results/result.log3248 
+area(46,27) : results/result.log3249 
+area(46,28) : results/result.log3250 
+area(46,29) : results/result.log3251 
+area(46,30) : results/result.log3252 
+area(46,31) : results/result.log3253 
+area(46,32) : results/result.log3254 
+area(46,33) : results/result.log3255 
+area(46,34) : results/result.log3256 
+area(46,35) : results/result.log3257 
+area(46,36) : results/result.log3258 
+area(46,37) : results/result.log3259 
+area(46,38) : results/result.log3260 
+area(46,39) : results/result.log3261 
+area(46,40) : results/result.log3262 
+area(46,41) : results/result.log3263 
+area(46,42) : results/result.log3264 
+area(46,43) : results/result.log3265 
+area(46,44) : results/result.log3266 
+area(46,45) : results/result.log3267 
+area(46,46) : results/result.log3268 
+area(46,47) : results/result.log3269 
+area(46,48) : results/result.log3270 
+area(46,49) : results/result.log3271 
+area(46,50) : results/result.log3272 
+area(46,51) : results/result.log3273 
+area(46,52) : results/result.log3274 
+area(46,53) : results/result.log3275 
+area(46,54) : results/result.log3276 
+area(46,55) : results/result.log3277 
+area(46,56) : results/result.log3278 
+area(46,57) : results/result.log3279 
+area(46,58) : results/result.log3280 
+area(46,59) : results/result.log3281 
+area(46,60) : results/result.log3282 
+area(46,61) : results/result.log3283 
+area(46,62) : results/result.log3284 
+area(46,63) : results/result.log3285 
+area(46,64) : results/result.log3286 
+area(46,65) : results/result.log3287 
+area(46,66) : results/result.log3288 
+area(46,67) : results/result.log3289 
+area(46,68) : results/result.log3290 
+area(46,69) : results/result.log3291 
+area(47,0) : results/result.log3292 
+area(47,1) : results/result.log3293 
+area(47,2) : results/result.log3294 
+area(47,3) : results/result.log3295 
+area(47,4) : results/result.log3296 
+area(47,5) : results/result.log3297 
+area(47,6) : results/result.log3298 
+area(47,7) : results/result.log3299 
+area(47,8) : results/result.log3300 
+area(47,9) : results/result.log3301 
+area(47,10) : results/result.log3302 
+area(47,11) : results/result.log3303 
+area(47,12) : results/result.log3304 
+area(47,13) : results/result.log3305 
+area(47,14) : results/result.log3306 
+area(47,15) : results/result.log3307 
+area(47,16) : results/result.log3308 
+area(47,17) : results/result.log3309 
+area(47,18) : results/result.log3310 
+area(47,19) : results/result.log3311 
+area(47,20) : results/result.log3312 
+area(47,21) : results/result.log3313 
+area(47,22) : results/result.log3314 
+area(47,23) : results/result.log3315 
+area(47,24) : results/result.log3316 
+area(47,25) : results/result.log3317 
+area(47,26) : results/result.log3318 
+area(47,27) : results/result.log3319 
+area(47,28) : results/result.log3320 
+area(47,29) : results/result.log3321 
+area(47,30) : results/result.log3322 
+area(47,31) : results/result.log3323 
+area(47,32) : results/result.log3324 
+area(47,33) : results/result.log3325 
+area(47,34) : results/result.log3326 
+area(47,35) : results/result.log3327 
+area(47,36) : results/result.log3328 
+area(47,37) : results/result.log3329 
+area(47,38) : results/result.log3330 
+area(47,39) : results/result.log3331 
+area(47,40) : results/result.log3332 
+area(47,41) : results/result.log3333 
+area(47,42) : results/result.log3334 
+area(47,43) : results/result.log3335 
+area(47,44) : results/result.log3336 
+area(47,45) : results/result.log3337 
+area(47,46) : results/result.log3338 
+area(47,47) : results/result.log3339 
+area(47,48) : results/result.log3340 
+area(47,49) : results/result.log3341 
+area(47,50) : results/result.log3342 
+area(47,51) : results/result.log3343 
+area(47,52) : results/result.log3344 
+area(47,53) : results/result.log3345 
+area(47,54) : results/result.log3346 
+area(47,55) : results/result.log3347 
+area(47,56) : results/result.log3348 
+area(47,57) : results/result.log3349 
+area(47,58) : results/result.log3350 
+area(47,59) : results/result.log3351 
+area(47,60) : results/result.log3352 
+area(47,61) : results/result.log3353 
+area(47,62) : results/result.log3354 
+area(47,63) : results/result.log3355 
+area(47,64) : results/result.log3356 
+area(47,65) : results/result.log3357 
+area(47,66) : results/result.log3358 
+area(47,67) : results/result.log3359 
+area(47,68) : results/result.log3360 
+area(47,69) : results/result.log3361 
+area(48,0) : results/result.log3362 
+area(48,1) : results/result.log3363 
+area(48,2) : results/result.log3364 
+area(48,3) : results/result.log3365 
+area(48,4) : results/result.log3366 
+area(48,5) : results/result.log3367 
+area(48,6) : results/result.log3368 
+area(48,7) : results/result.log3369 
+area(48,8) : results/result.log3370 
+area(48,9) : results/result.log3371 
+area(48,10) : results/result.log3372 
+area(48,11) : results/result.log3373 
+area(48,12) : results/result.log3374 
+area(48,13) : results/result.log3375 
+area(48,14) : results/result.log3376 
+area(48,15) : results/result.log3377 
+area(48,16) : results/result.log3378 
+area(48,17) : results/result.log3379 
+area(48,18) : results/result.log3380 
+area(48,19) : results/result.log3381 
+area(48,20) : results/result.log3382 
+area(48,21) : results/result.log3383 
+area(48,22) : results/result.log3384 
+area(48,23) : results/result.log3385 
+area(48,24) : results/result.log3386 
+area(48,25) : results/result.log3387 
+area(48,26) : results/result.log3388 
+area(48,27) : results/result.log3389 
+area(48,28) : results/result.log3390 
+area(48,29) : results/result.log3391 
+area(48,30) : results/result.log3392 
+area(48,31) : results/result.log3393 
+area(48,32) : results/result.log3394 
+area(48,33) : results/result.log3395 
+area(48,34) : results/result.log3396 
+area(48,35) : results/result.log3397 
+area(48,36) : results/result.log3398 
+area(48,37) : results/result.log3399 
+area(48,38) : results/result.log3400 
+area(48,39) : results/result.log3401 
+area(48,40) : results/result.log3402 
+area(48,41) : results/result.log3403 
+area(48,42) : results/result.log3404 
+area(48,43) : results/result.log3405 
+area(48,44) : results/result.log3406 
+area(48,45) : results/result.log3407 
+area(48,46) : results/result.log3408 
+area(48,47) : results/result.log3409 
+area(48,48) : results/result.log3410 
+area(48,49) : results/result.log3411 
+area(48,50) : results/result.log3412 
+area(48,51) : results/result.log3413 
+area(48,52) : results/result.log3414 
+area(48,53) : results/result.log3415 
+area(48,54) : results/result.log3416 
+area(48,55) : results/result.log3417 
+area(48,56) : results/result.log3418 
+area(48,57) : results/result.log3419 
+area(48,58) : results/result.log3420 
+area(48,59) : results/result.log3421 
+area(48,60) : results/result.log3422 
+area(48,61) : results/result.log3423 
+area(48,62) : results/result.log3424 
+area(48,63) : results/result.log3425 
+area(48,64) : results/result.log3426 
+area(48,65) : results/result.log3427 
+area(48,66) : results/result.log3428 
+area(48,67) : results/result.log3429 
+area(48,68) : results/result.log3430 
+area(48,69) : results/result.log3431 
+area(49,0) : results/result.log3432 
+area(49,1) : results/result.log3433 
+area(49,2) : results/result.log3434 
+area(49,3) : results/result.log3435 
+area(49,4) : results/result.log3436 
+area(49,5) : results/result.log3437 
+area(49,6) : results/result.log3438 
+area(49,7) : results/result.log3439 
+area(49,8) : results/result.log3440 
+area(49,9) : results/result.log3441 
+area(49,10) : results/result.log3442 
+area(49,11) : results/result.log3443 
+area(49,12) : results/result.log3444 
+area(49,13) : results/result.log3445 
+area(49,14) : results/result.log3446 
+area(49,15) : results/result.log3447 
+area(49,16) : results/result.log3448 
+area(49,17) : results/result.log3449 
+area(49,18) : results/result.log3450 
+area(49,19) : results/result.log3451 
+area(49,20) : results/result.log3452 
+area(49,21) : results/result.log3453 
+area(49,22) : results/result.log3454 
+area(49,23) : results/result.log3455 
+area(49,24) : results/result.log3456 
+area(49,25) : results/result.log3457 
+area(49,26) : results/result.log3458 
+area(49,27) : results/result.log3459 
+area(49,28) : results/result.log3460 
+area(49,29) : results/result.log3461 
+area(49,30) : results/result.log3462 
+area(49,31) : results/result.log3463 
+area(49,32) : results/result.log3464 
+area(49,33) : results/result.log3465 
+area(49,34) : results/result.log3466 
+area(49,35) : results/result.log3467 
+area(49,36) : results/result.log3468 
+area(49,37) : results/result.log3469 
+area(49,38) : results/result.log3470 
+area(49,39) : results/result.log3471 
+area(49,40) : results/result.log3472 
+area(49,41) : results/result.log3473 
+area(49,42) : results/result.log3474 
+area(49,43) : results/result.log3475 
+area(49,44) : results/result.log3476 
+area(49,45) : results/result.log3477 
+area(49,46) : results/result.log3478 
+area(49,47) : results/result.log3479 
+area(49,48) : results/result.log3480 
+area(49,49) : results/result.log3481 
+area(49,50) : results/result.log3482 
+area(49,51) : results/result.log3483 
+area(49,52) : results/result.log3484 
+area(49,53) : results/result.log3485 
+area(49,54) : results/result.log3486 
+area(49,55) : results/result.log3487 
+area(49,56) : results/result.log3488 
+area(49,57) : results/result.log3489 
+area(49,58) : results/result.log3490 
+area(49,59) : results/result.log3491 
+area(49,60) : results/result.log3492 
+area(49,61) : results/result.log3493 
+area(49,62) : results/result.log3494 
+area(49,63) : results/result.log3495 
+area(49,64) : results/result.log3496 
+area(49,65) : results/result.log3497 
+area(49,66) : results/result.log3498 
+area(49,67) : results/result.log3499 
+area(49,68) : results/result.log3500 
+area(49,69) : results/result.log3501 
+area(50,0) : results/result.log3502 
+area(50,1) : results/result.log3503 
+area(50,2) : results/result.log3504 
+area(50,3) : results/result.log3505 
+area(50,4) : results/result.log3506 
+area(50,5) : results/result.log3507 
+area(50,6) : results/result.log3508 
+area(50,7) : results/result.log3509 
+area(50,8) : results/result.log3510 
+area(50,9) : results/result.log3511 
+area(50,10) : results/result.log3512 
+area(50,11) : results/result.log3513 
+area(50,12) : results/result.log3514 
+area(50,13) : results/result.log3515 
+area(50,14) : results/result.log3516 
+area(50,15) : results/result.log3517 
+area(50,16) : results/result.log3518 
+area(50,17) : results/result.log3519 
+area(50,18) : results/result.log3520 
+area(50,19) : results/result.log3521 
+area(50,20) : results/result.log3522 
+area(50,21) : results/result.log3523 
+area(50,22) : results/result.log3524 
+area(50,23) : results/result.log3525 
+area(50,24) : results/result.log3526 
+area(50,25) : results/result.log3527 
+area(50,26) : results/result.log3528 
+area(50,27) : results/result.log3529 
+area(50,28) : results/result.log3530 
+area(50,29) : results/result.log3531 
+area(50,30) : results/result.log3532 
+area(50,31) : results/result.log3533 
+area(50,32) : results/result.log3534 
+area(50,33) : results/result.log3535 
+area(50,34) : results/result.log3536 
+area(50,35) : results/result.log3537 
+area(50,36) : results/result.log3538 
+area(50,37) : results/result.log3539 
+area(50,38) : results/result.log3540 
+area(50,39) : results/result.log3541 
+area(50,40) : results/result.log3542 
+area(50,41) : results/result.log3543 
+area(50,42) : results/result.log3544 
+area(50,43) : results/result.log3545 
+area(50,44) : results/result.log3546 
+area(50,45) : results/result.log3547 
+area(50,46) : results/result.log3548 
+area(50,47) : results/result.log3549 
+area(50,48) : results/result.log3550 
+area(50,49) : results/result.log3551 
+area(50,50) : results/result.log3552 
+area(50,51) : results/result.log3553 
+area(50,52) : results/result.log3554 
+area(50,53) : results/result.log3555 
+area(50,54) : results/result.log3556 
+area(50,55) : results/result.log3557 
+area(50,56) : results/result.log3558 
+area(50,57) : results/result.log3559 
+area(50,58) : results/result.log3560 
+area(50,59) : results/result.log3561 
+area(50,60) : results/result.log3562 
+area(50,61) : results/result.log3563 
+area(50,62) : results/result.log3564 
+area(50,63) : results/result.log3565 
+area(50,64) : results/result.log3566 
+area(50,65) : results/result.log3567 
+area(50,66) : results/result.log3568 
+area(50,67) : results/result.log3569 
+area(50,68) : results/result.log3570 
+area(50,69) : results/result.log3571 
+area(51,0) : results/result.log3572 
+area(51,1) : results/result.log3573 
+area(51,2) : results/result.log3574 
+area(51,3) : results/result.log3575 
+area(51,4) : results/result.log3576 
+area(51,5) : results/result.log3577 
+area(51,6) : results/result.log3578 
+area(51,7) : results/result.log3579 
+area(51,8) : results/result.log3580 
+area(51,9) : results/result.log3581 
+area(51,10) : results/result.log3582 
+area(51,11) : results/result.log3583 
+area(51,12) : results/result.log3584 
+area(51,13) : results/result.log3585 
+area(51,14) : results/result.log3586 
+area(51,15) : results/result.log3587 
+area(51,16) : results/result.log3588 
+area(51,17) : results/result.log3589 
+area(51,18) : results/result.log3590 
+area(51,19) : results/result.log3591 
+area(51,20) : results/result.log3592 
+area(51,21) : results/result.log3593 
+area(51,22) : results/result.log3594 
+area(51,23) : results/result.log3595 
+area(51,24) : results/result.log3596 
+area(51,25) : results/result.log3597 
+area(51,26) : results/result.log3598 
+area(51,27) : results/result.log3599 
+area(51,28) : results/result.log3600 
+area(51,29) : results/result.log3601 
+area(51,30) : results/result.log3602 
+area(51,31) : results/result.log3603 
+area(51,32) : results/result.log3604 
+area(51,33) : results/result.log3605 
+area(51,34) : results/result.log3606 
+area(51,35) : results/result.log3607 
+area(51,36) : results/result.log3608 
+area(51,37) : results/result.log3609 
+area(51,38) : results/result.log3610 
+area(51,39) : results/result.log3611 
+area(51,40) : results/result.log3612 
+area(51,41) : results/result.log3613 
+area(51,42) : results/result.log3614 
+area(51,43) : results/result.log3615 
+area(51,44) : results/result.log3616 
+area(51,45) : results/result.log3617 
+area(51,46) : results/result.log3618 
+area(51,47) : results/result.log3619 
+area(51,48) : results/result.log3620 
+area(51,49) : results/result.log3621 
+area(51,50) : results/result.log3622 
+area(51,51) : results/result.log3623 
+area(51,52) : results/result.log3624 
+area(51,53) : results/result.log3625 
+area(51,54) : results/result.log3626 
+area(51,55) : results/result.log3627 
+area(51,56) : results/result.log3628 
+area(51,57) : results/result.log3629 
+area(51,58) : results/result.log3630 
+area(51,59) : results/result.log3631 
+area(51,60) : results/result.log3632 
+area(51,61) : results/result.log3633 
+area(51,62) : results/result.log3634 
+area(51,63) : results/result.log3635 
+area(51,64) : results/result.log3636 
+area(51,65) : results/result.log3637 
+area(51,66) : results/result.log3638 
+area(51,67) : results/result.log3639 
+area(51,68) : results/result.log3640 
+area(51,69) : results/result.log3641 
+area(52,0) : results/result.log3642 
+area(52,1) : results/result.log3643 
+area(52,2) : results/result.log3644 
+area(52,3) : results/result.log3645 
+area(52,4) : results/result.log3646 
+area(52,5) : results/result.log3647 
+area(52,6) : results/result.log3648 
+area(52,7) : results/result.log3649 
+area(52,8) : results/result.log3650 
+area(52,9) : results/result.log3651 
+area(52,10) : results/result.log3652 
+area(52,11) : results/result.log3653 
+area(52,12) : results/result.log3654 
+area(52,13) : results/result.log3655 
+area(52,14) : results/result.log3656 
+area(52,15) : results/result.log3657 
+area(52,16) : results/result.log3658 
+area(52,17) : results/result.log3659 
+area(52,18) : results/result.log3660 
+area(52,19) : results/result.log3661 
+area(52,20) : results/result.log3662 
+area(52,21) : results/result.log3663 
+area(52,22) : results/result.log3664 
+area(52,23) : results/result.log3665 
+area(52,24) : results/result.log3666 
+area(52,25) : results/result.log3667 
+area(52,26) : results/result.log3668 
+area(52,27) : results/result.log3669 
+area(52,28) : results/result.log3670 
+area(52,29) : results/result.log3671 
+area(52,30) : results/result.log3672 
+area(52,31) : results/result.log3673 
+area(52,32) : results/result.log3674 
+area(52,33) : results/result.log3675 
+area(52,34) : results/result.log3676 
+area(52,35) : results/result.log3677 
+area(52,36) : results/result.log3678 
+area(52,37) : results/result.log3679 
+area(52,38) : results/result.log3680 
+area(52,39) : results/result.log3681 
+area(52,40) : results/result.log3682 
+area(52,41) : results/result.log3683 
+area(52,42) : results/result.log3684 
+area(52,43) : results/result.log3685 
+area(52,44) : results/result.log3686 
+area(52,45) : results/result.log3687 
+area(52,46) : results/result.log3688 
+area(52,47) : results/result.log3689 
+area(52,48) : results/result.log3690 
+area(52,49) : results/result.log3691 
+area(52,50) : results/result.log3692 
+area(52,51) : results/result.log3693 
+area(52,52) : results/result.log3694 
+area(52,53) : results/result.log3695 
+area(52,54) : results/result.log3696 
+area(52,55) : results/result.log3697 
+area(52,56) : results/result.log3698 
+area(52,57) : results/result.log3699 
+area(52,58) : results/result.log3700 
+area(52,59) : results/result.log3701 
+area(52,60) : results/result.log3702 
+area(52,61) : results/result.log3703 
+area(52,62) : results/result.log3704 
+area(52,63) : results/result.log3705 
+area(52,64) : results/result.log3706 
+area(52,65) : results/result.log3707 
+area(52,66) : results/result.log3708 
+area(52,67) : results/result.log3709 
+area(52,68) : results/result.log3710 
+area(52,69) : results/result.log3711 
+area(53,0) : results/result.log3712 
+area(53,1) : results/result.log3713 
+area(53,2) : results/result.log3714 
+area(53,3) : results/result.log3715 
+area(53,4) : results/result.log3716 
+area(53,5) : results/result.log3717 
+area(53,6) : results/result.log3718 
+area(53,7) : results/result.log3719 
+area(53,8) : results/result.log3720 
+area(53,9) : results/result.log3721 
+area(53,10) : results/result.log3722 
+area(53,11) : results/result.log3723 
+area(53,12) : results/result.log3724 
+area(53,13) : results/result.log3725 
+area(53,14) : results/result.log3726 
+area(53,15) : results/result.log3727 
+area(53,16) : results/result.log3728 
+area(53,17) : results/result.log3729 
+area(53,18) : results/result.log3730 
+area(53,19) : results/result.log3731 
+area(53,20) : results/result.log3732 
+area(53,21) : results/result.log3733 
+area(53,22) : results/result.log3734 
+area(53,23) : results/result.log3735 
+area(53,24) : results/result.log3736 
+area(53,25) : results/result.log3737 
+area(53,26) : results/result.log3738 
+area(53,27) : results/result.log3739 
+area(53,28) : results/result.log3740 
+area(53,29) : results/result.log3741 
+area(53,30) : results/result.log3742 
+area(53,31) : results/result.log3743 
+area(53,32) : results/result.log3744 
+area(53,33) : results/result.log3745 
+area(53,34) : results/result.log3746 
+area(53,35) : results/result.log3747 
+area(53,36) : results/result.log3748 
+area(53,37) : results/result.log3749 
+area(53,38) : results/result.log3750 
+area(53,39) : results/result.log3751 
+area(53,40) : results/result.log3752 
+area(53,41) : results/result.log3753 
+area(53,42) : results/result.log3754 
+area(53,43) : results/result.log3755 
+area(53,44) : results/result.log3756 
+area(53,45) : results/result.log3757 
+area(53,46) : results/result.log3758 
+area(53,47) : results/result.log3759 
+area(53,48) : results/result.log3760 
+area(53,49) : results/result.log3761 
+area(53,50) : results/result.log3762 
+area(53,51) : results/result.log3763 
+area(53,52) : results/result.log3764 
+area(53,53) : results/result.log3765 
+area(53,54) : results/result.log3766 
+area(53,55) : results/result.log3767 
+area(53,56) : results/result.log3768 
+area(53,57) : results/result.log3769 
+area(53,58) : results/result.log3770 
+area(53,59) : results/result.log3771 
+area(53,60) : results/result.log3772 
+area(53,61) : results/result.log3773 
+area(53,62) : results/result.log3774 
+area(53,63) : results/result.log3775 
+area(53,64) : results/result.log3776 
+area(53,65) : results/result.log3777 
+area(53,66) : results/result.log3778 
+area(53,67) : results/result.log3779 
+area(53,68) : results/result.log3780 
+area(53,69) : results/result.log3781 
+area(54,0) : results/result.log3782 
+area(54,1) : results/result.log3783 
+area(54,2) : results/result.log3784 
+area(54,3) : results/result.log3785 
+area(54,4) : results/result.log3786 
+area(54,5) : results/result.log3787 
+area(54,6) : results/result.log3788 
+area(54,7) : results/result.log3789 
+area(54,8) : results/result.log3790 
+area(54,9) : results/result.log3791 
+area(54,10) : results/result.log3792 
+area(54,11) : results/result.log3793 
+area(54,12) : results/result.log3794 
+area(54,13) : results/result.log3795 
+area(54,14) : results/result.log3796 
+area(54,15) : results/result.log3797 
+area(54,16) : results/result.log3798 
+area(54,17) : results/result.log3799 
+area(54,18) : results/result.log3800 
+area(54,19) : results/result.log3801 
+area(54,20) : results/result.log3802 
+area(54,21) : results/result.log3803 
+area(54,22) : results/result.log3804 
+area(54,23) : results/result.log3805 
+area(54,24) : results/result.log3806 
+area(54,25) : results/result.log3807 
+area(54,26) : results/result.log3808 
+area(54,27) : results/result.log3809 
+area(54,28) : results/result.log3810 
+area(54,29) : results/result.log3811 
+area(54,30) : results/result.log3812 
+area(54,31) : results/result.log3813 
+area(54,32) : results/result.log3814 
+area(54,33) : results/result.log3815 
+area(54,34) : results/result.log3816 
+area(54,35) : results/result.log3817 
+area(54,36) : results/result.log3818 
+area(54,37) : results/result.log3819 
+area(54,38) : results/result.log3820 
+area(54,39) : results/result.log3821 
+area(54,40) : results/result.log3822 
+area(54,41) : results/result.log3823 
+area(54,42) : results/result.log3824 
+area(54,43) : results/result.log3825 
+area(54,44) : results/result.log3826 
+area(54,45) : results/result.log3827 
+area(54,46) : results/result.log3828 
+area(54,47) : results/result.log3829 
+area(54,48) : results/result.log3830 
+area(54,49) : results/result.log3831 
+area(54,50) : results/result.log3832 
+area(54,51) : results/result.log3833 
+area(54,52) : results/result.log3834 
+area(54,53) : results/result.log3835 
+area(54,54) : results/result.log3836 
+area(54,55) : results/result.log3837 
+area(54,56) : results/result.log3838 
+area(54,57) : results/result.log3839 
+area(54,58) : results/result.log3840 
+area(54,59) : results/result.log3841 
+area(54,60) : results/result.log3842 
+area(54,61) : results/result.log3843 
+area(54,62) : results/result.log3844 
+area(54,63) : results/result.log3845 
+area(54,64) : results/result.log3846 
+area(54,65) : results/result.log3847 
+area(54,66) : results/result.log3848 
+area(54,67) : results/result.log3849 
+area(54,68) : results/result.log3850 
+area(54,69) : results/result.log3851 
+area(55,0) : results/result.log3852 
+area(55,1) : results/result.log3853 
+area(55,2) : results/result.log3854 
+area(55,3) : results/result.log3855 
+area(55,4) : results/result.log3856 
+area(55,5) : results/result.log3857 
+area(55,6) : results/result.log3858 
+area(55,7) : results/result.log3859 
+area(55,8) : results/result.log3860 
+area(55,9) : results/result.log3861 
+area(55,10) : results/result.log3862 
+area(55,11) : results/result.log3863 
+area(55,12) : results/result.log3864 
+area(55,13) : results/result.log3865 
+area(55,14) : results/result.log3866 
+area(55,15) : results/result.log3867 
+area(55,16) : results/result.log3868 
+area(55,17) : results/result.log3869 
+area(55,18) : results/result.log3870 
+area(55,19) : results/result.log3871 
+area(55,20) : results/result.log3872 
+area(55,21) : results/result.log3873 
+area(55,22) : results/result.log3874 
+area(55,23) : results/result.log3875 
+area(55,24) : results/result.log3876 
+area(55,25) : results/result.log3877 
+area(55,26) : results/result.log3878 
+area(55,27) : results/result.log3879 
+area(55,28) : results/result.log3880 
+area(55,29) : results/result.log3881 
+area(55,30) : results/result.log3882 
+area(55,31) : results/result.log3883 
+area(55,32) : results/result.log3884 
+area(55,33) : results/result.log3885 
+area(55,34) : results/result.log3886 
+area(55,35) : results/result.log3887 
+area(55,36) : results/result.log3888 
+area(55,37) : results/result.log3889 
+area(55,38) : results/result.log3890 
+area(55,39) : results/result.log3891 
+area(55,40) : results/result.log3892 
+area(55,41) : results/result.log3893 
+area(55,42) : results/result.log3894 
+area(55,43) : results/result.log3895 
+area(55,44) : results/result.log3896 
+area(55,45) : results/result.log3897 
+area(55,46) : results/result.log3898 
+area(55,47) : results/result.log3899 
+area(55,48) : results/result.log3900 
+area(55,49) : results/result.log3901 
+area(55,50) : results/result.log3902 
+area(55,51) : results/result.log3903 
+area(55,52) : results/result.log3904 
+area(55,53) : results/result.log3905 
+area(55,54) : results/result.log3906 
+area(55,55) : results/result.log3907 
+area(55,56) : results/result.log3908 
+area(55,57) : results/result.log3909 
+area(55,58) : results/result.log3910 
+area(55,59) : results/result.log3911 
+area(55,60) : results/result.log3912 
+area(55,61) : results/result.log3913 
+area(55,62) : results/result.log3914 
+area(55,63) : results/result.log3915 
+area(55,64) : results/result.log3916 
+area(55,65) : results/result.log3917 
+area(55,66) : results/result.log3918 
+area(55,67) : results/result.log3919 
+area(55,68) : results/result.log3920 
+area(55,69) : results/result.log3921 
+area(56,0) : results/result.log3922 
+area(56,1) : results/result.log3923 
+area(56,2) : results/result.log3924 
+area(56,3) : results/result.log3925 
+area(56,4) : results/result.log3926 
+area(56,5) : results/result.log3927 
+area(56,6) : results/result.log3928 
+area(56,7) : results/result.log3929 
+area(56,8) : results/result.log3930 
+area(56,9) : results/result.log3931 
+area(56,10) : results/result.log3932 
+area(56,11) : results/result.log3933 
+area(56,12) : results/result.log3934 
+area(56,13) : results/result.log3935 
+area(56,14) : results/result.log3936 
+area(56,15) : results/result.log3937 
+area(56,16) : results/result.log3938 
+area(56,17) : results/result.log3939 
+area(56,18) : results/result.log3940 
+area(56,19) : results/result.log3941 
+area(56,20) : results/result.log3942 
+area(56,21) : results/result.log3943 
+area(56,22) : results/result.log3944 
+area(56,23) : results/result.log3945 
+area(56,24) : results/result.log3946 
+area(56,25) : results/result.log3947 
+area(56,26) : results/result.log3948 
+area(56,27) : results/result.log3949 
+area(56,28) : results/result.log3950 
+area(56,29) : results/result.log3951 
+area(56,30) : results/result.log3952 
+area(56,31) : results/result.log3953 
+area(56,32) : results/result.log3954 
+area(56,33) : results/result.log3955 
+area(56,34) : results/result.log3956 
+area(56,35) : results/result.log3957 
+area(56,36) : results/result.log3958 
+area(56,37) : results/result.log3959 
+area(56,38) : results/result.log3960 
+area(56,39) : results/result.log3961 
+area(56,40) : results/result.log3962 
+area(56,41) : results/result.log3963 
+area(56,42) : results/result.log3964 
+area(56,43) : results/result.log3965 
+area(56,44) : results/result.log3966 
+area(56,45) : results/result.log3967 
+area(56,46) : results/result.log3968 
+area(56,47) : results/result.log3969 
+area(56,48) : results/result.log3970 
+area(56,49) : results/result.log3971 
+area(56,50) : results/result.log3972 
+area(56,51) : results/result.log3973 
+area(56,52) : results/result.log3974 
+area(56,53) : results/result.log3975 
+area(56,54) : results/result.log3976 
+area(56,55) : results/result.log3977 
+area(56,56) : results/result.log3978 
+area(56,57) : results/result.log3979 
+area(56,58) : results/result.log3980 
+area(56,59) : results/result.log3981 
+area(56,60) : results/result.log3982 
+area(56,61) : results/result.log3983 
+area(56,62) : results/result.log3984 
+area(56,63) : results/result.log3985 
+area(56,64) : results/result.log3986 
+area(56,65) : results/result.log3987 
+area(56,66) : results/result.log3988 
+area(56,67) : results/result.log3989 
+area(56,68) : results/result.log3990 
+area(56,69) : results/result.log3991 
+area(57,0) : results/result.log3992 
+area(57,1) : results/result.log3993 
+area(57,2) : results/result.log3994 
+area(57,3) : results/result.log3995 
+area(57,4) : results/result.log3996 
+area(57,5) : results/result.log3997 
+area(57,6) : results/result.log3998 
+area(57,7) : results/result.log3999 
+area(57,8) : results/result.log4000 
+area(57,9) : results/result.log4001 
+area(57,10) : results/result.log4002 
+area(57,11) : results/result.log4003 
+area(57,12) : results/result.log4004 
+area(57,13) : results/result.log4005 
+area(57,14) : results/result.log4006 
+area(57,15) : results/result.log4007 
+area(57,16) : results/result.log4008 
+area(57,17) : results/result.log4009 
+area(57,18) : results/result.log4010 
+area(57,19) : results/result.log4011 
+area(57,20) : results/result.log4012 
+area(57,21) : results/result.log4013 
+area(57,22) : results/result.log4014 
+area(57,23) : results/result.log4015 
+area(57,24) : results/result.log4016 
+area(57,25) : results/result.log4017 
+area(57,26) : results/result.log4018 
+area(57,27) : results/result.log4019 
+area(57,28) : results/result.log4020 
+area(57,29) : results/result.log4021 
+area(57,30) : results/result.log4022 
+area(57,31) : results/result.log4023 
+area(57,32) : results/result.log4024 
+area(57,33) : results/result.log4025 
+area(57,34) : results/result.log4026 
+area(57,35) : results/result.log4027 
+area(57,36) : results/result.log4028 
+area(57,37) : results/result.log4029 
+area(57,38) : results/result.log4030 
+area(57,39) : results/result.log4031 
+area(57,40) : results/result.log4032 
+area(57,41) : results/result.log4033 
+area(57,42) : results/result.log4034 
+area(57,43) : results/result.log4035 
+area(57,44) : results/result.log4036 
+area(57,45) : results/result.log4037 
+area(57,46) : results/result.log4038 
+area(57,47) : results/result.log4039 
+area(57,48) : results/result.log4040 
+area(57,49) : results/result.log4041 
+area(57,50) : results/result.log4042 
+area(57,51) : results/result.log4043 
+area(57,52) : results/result.log4044 
+area(57,53) : results/result.log4045 
+area(57,54) : results/result.log4046 
+area(57,55) : results/result.log4047 
+area(57,56) : results/result.log4048 
+area(57,57) : results/result.log4049 
+area(57,58) : results/result.log4050 
+area(57,59) : results/result.log4051 
+area(57,60) : results/result.log4052 
+area(57,61) : results/result.log4053 
+area(57,62) : results/result.log4054 
+area(57,63) : results/result.log4055 
+area(57,64) : results/result.log4056 
+area(57,65) : results/result.log4057 
+area(57,66) : results/result.log4058 
+area(57,67) : results/result.log4059 
+area(57,68) : results/result.log4060 
+area(57,69) : results/result.log4061 
+area(58,0) : results/result.log4062 
+area(58,1) : results/result.log4063 
+area(58,2) : results/result.log4064 
+area(58,3) : results/result.log4065 
+area(58,4) : results/result.log4066 
+area(58,5) : results/result.log4067 
+area(58,6) : results/result.log4068 
+area(58,7) : results/result.log4069 
+area(58,8) : results/result.log4070 
+area(58,9) : results/result.log4071 
+area(58,10) : results/result.log4072 
+area(58,11) : results/result.log4073 
+area(58,12) : results/result.log4074 
+area(58,13) : results/result.log4075 
+area(58,14) : results/result.log4076 
+area(58,15) : results/result.log4077 
+area(58,16) : results/result.log4078 
+area(58,17) : results/result.log4079 
+area(58,18) : results/result.log4080 
+area(58,19) : results/result.log4081 
+area(58,20) : results/result.log4082 
+area(58,21) : results/result.log4083 
+area(58,22) : results/result.log4084 
+area(58,23) : results/result.log4085 
+area(58,24) : results/result.log4086 
+area(58,25) : results/result.log4087 
+area(58,26) : results/result.log4088 
+area(58,27) : results/result.log4089 
+area(58,28) : results/result.log4090 
+area(58,29) : results/result.log4091 
+area(58,30) : results/result.log4092 
+area(58,31) : results/result.log4093 
+area(58,32) : results/result.log4094 
+area(58,33) : results/result.log4095 
+area(58,34) : results/result.log4096 
+area(58,35) : results/result.log4097 
+area(58,36) : results/result.log4098 
+area(58,37) : results/result.log4099 
+area(58,38) : results/result.log4100 
+area(58,39) : results/result.log4101 
+area(58,40) : results/result.log4102 
+area(58,41) : results/result.log4103 
+area(58,42) : results/result.log4104 
+area(58,43) : results/result.log4105 
+area(58,44) : results/result.log4106 
+area(58,45) : results/result.log4107 
+area(58,46) : results/result.log4108 
+area(58,47) : results/result.log4109 
+area(58,48) : results/result.log4110 
+area(58,49) : results/result.log4111 
+area(58,50) : results/result.log4112 
+area(58,51) : results/result.log4113 
+area(58,52) : results/result.log4114 
+area(58,53) : results/result.log4115 
+area(58,54) : results/result.log4116 
+area(58,55) : results/result.log4117 
+area(58,56) : results/result.log4118 
+area(58,57) : results/result.log4119 
+area(58,58) : results/result.log4120 
+area(58,59) : results/result.log4121 
+area(58,60) : results/result.log4122 
+area(58,61) : results/result.log4123 
+area(58,62) : results/result.log4124 
+area(58,63) : results/result.log4125 
+area(58,64) : results/result.log4126 
+area(58,65) : results/result.log4127 
+area(58,66) : results/result.log4128 
+area(58,67) : results/result.log4129 
+area(58,68) : results/result.log4130 
+area(58,69) : results/result.log4131 
+area(59,0) : results/result.log4132 
+area(59,1) : results/result.log4133 
+area(59,2) : results/result.log4134 
+area(59,3) : results/result.log4135 
+area(59,4) : results/result.log4136 
+area(59,5) : results/result.log4137 
+area(59,6) : results/result.log4138 
+area(59,7) : results/result.log4139 
+area(59,8) : results/result.log4140 
+area(59,9) : results/result.log4141 
+area(59,10) : results/result.log4142 
+area(59,11) : results/result.log4143 
+area(59,12) : results/result.log4144 
+area(59,13) : results/result.log4145 
+area(59,14) : results/result.log4146 
+area(59,15) : results/result.log4147 
+area(59,16) : results/result.log4148 
+area(59,17) : results/result.log4149 
+area(59,18) : results/result.log4150 
+area(59,19) : results/result.log4151 
+area(59,20) : results/result.log4152 
+area(59,21) : results/result.log4153 
+area(59,22) : results/result.log4154 
+area(59,23) : results/result.log4155 
+area(59,24) : results/result.log4156 
+area(59,25) : results/result.log4157 
+area(59,26) : results/result.log4158 
+area(59,27) : results/result.log4159 
+area(59,28) : results/result.log4160 
+area(59,29) : results/result.log4161 
+area(59,30) : results/result.log4162 
+area(59,31) : results/result.log4163 
+area(59,32) : results/result.log4164 
+area(59,33) : results/result.log4165 
+area(59,34) : results/result.log4166 
+area(59,35) : results/result.log4167 
+area(59,36) : results/result.log4168 
+area(59,37) : results/result.log4169 
+area(59,38) : results/result.log4170 
+area(59,39) : results/result.log4171 
+area(59,40) : results/result.log4172 
+area(59,41) : results/result.log4173 
+area(59,42) : results/result.log4174 
+area(59,43) : results/result.log4175 
+area(59,44) : results/result.log4176 
+area(59,45) : results/result.log4177 
+area(59,46) : results/result.log4178 
+area(59,47) : results/result.log4179 
+area(59,48) : results/result.log4180 
+area(59,49) : results/result.log4181 
+area(59,50) : results/result.log4182 
+area(59,51) : results/result.log4183 
+area(59,52) : results/result.log4184 
+area(59,53) : results/result.log4185 
+area(59,54) : results/result.log4186 
+area(59,55) : results/result.log4187 
+area(59,56) : results/result.log4188 
+area(59,57) : results/result.log4189 
+area(59,58) : results/result.log4190 
+area(59,59) : results/result.log4191 
+area(59,60) : results/result.log4192 
+area(59,61) : results/result.log4193 
+area(59,62) : results/result.log4194 
+area(59,63) : results/result.log4195 
+area(59,64) : results/result.log4196 
+area(59,65) : results/result.log4197 
+area(59,66) : results/result.log4198 
+area(59,67) : results/result.log4199 
+area(59,68) : results/result.log4200 
+area(59,69) : results/result.log4201 
+area(60,0) : results/result.log4202 
+area(60,1) : results/result.log4203 
+area(60,2) : results/result.log4204 
+area(60,3) : results/result.log4205 
+area(60,4) : results/result.log4206 
+area(60,5) : results/result.log4207 
+area(60,6) : results/result.log4208 
+area(60,7) : results/result.log4209 
+area(60,8) : results/result.log4210 
+area(60,9) : results/result.log4211 
+area(60,10) : results/result.log4212 
+area(60,11) : results/result.log4213 
+area(60,12) : results/result.log4214 
+area(60,13) : results/result.log4215 
+area(60,14) : results/result.log4216 
+area(60,15) : results/result.log4217 
+area(60,16) : results/result.log4218 
+area(60,17) : results/result.log4219 
+area(60,18) : results/result.log4220 
+area(60,19) : results/result.log4221 
+area(60,20) : results/result.log4222 
+area(60,21) : results/result.log4223 
+area(60,22) : results/result.log4224 
+area(60,23) : results/result.log4225 
+area(60,24) : results/result.log4226 
+area(60,25) : results/result.log4227 
+area(60,26) : results/result.log4228 
+area(60,27) : results/result.log4229 
+area(60,28) : results/result.log4230 
+area(60,29) : results/result.log4231 
+area(60,30) : results/result.log4232 
+area(60,31) : results/result.log4233 
+area(60,32) : results/result.log4234 
+area(60,33) : results/result.log4235 
+area(60,34) : results/result.log4236 
+area(60,35) : results/result.log4237 
+area(60,36) : results/result.log4238 
+area(60,37) : results/result.log4239 
+area(60,38) : results/result.log4240 
+area(60,39) : results/result.log4241 
+area(60,40) : results/result.log4242 
+area(60,41) : results/result.log4243 
+area(60,42) : results/result.log4244 
+area(60,43) : results/result.log4245 
+area(60,44) : results/result.log4246 
+area(60,45) : results/result.log4247 
+area(60,46) : results/result.log4248 
+area(60,47) : results/result.log4249 
+area(60,48) : results/result.log4250 
+area(60,49) : results/result.log4251 
+area(60,50) : results/result.log4252 
+area(60,51) : results/result.log4253 
+area(60,52) : results/result.log4254 
+area(60,53) : results/result.log4255 
+area(60,54) : results/result.log4256 
+area(60,55) : results/result.log4257 
+area(60,56) : results/result.log4258 
+area(60,57) : results/result.log4259 
+area(60,58) : results/result.log4260 
+area(60,59) : results/result.log4261 
+area(60,60) : results/result.log4262 
+area(60,61) : results/result.log4263 
+area(60,62) : results/result.log4264 
+area(60,63) : results/result.log4265 
+area(60,64) : results/result.log4266 
+area(60,65) : results/result.log4267 
+area(60,66) : results/result.log4268 
+area(60,67) : results/result.log4269 
+area(60,68) : results/result.log4270 
+area(60,69) : results/result.log4271 
+area(61,0) : results/result.log4272 
+area(61,1) : results/result.log4273 
+area(61,2) : results/result.log4274 
+area(61,3) : results/result.log4275 
+area(61,4) : results/result.log4276 
+area(61,5) : results/result.log4277 
+area(61,6) : results/result.log4278 
+area(61,7) : results/result.log4279 
+area(61,8) : results/result.log4280 
+area(61,9) : results/result.log4281 
+area(61,10) : results/result.log4282 
+area(61,11) : results/result.log4283 
+area(61,12) : results/result.log4284 
+area(61,13) : results/result.log4285 
+area(61,14) : results/result.log4286 
+area(61,15) : results/result.log4287 
+area(61,16) : results/result.log4288 
+area(61,17) : results/result.log4289 
+area(61,18) : results/result.log4290 
+area(61,19) : results/result.log4291 
+area(61,20) : results/result.log4292 
+area(61,21) : results/result.log4293 
+area(61,22) : results/result.log4294 
+area(61,23) : results/result.log4295 
+area(61,24) : results/result.log4296 
+area(61,25) : results/result.log4297 
+area(61,26) : results/result.log4298 
+area(61,27) : results/result.log4299 
+area(61,28) : results/result.log4300 
+area(61,29) : results/result.log4301 
+area(61,30) : results/result.log4302 
+area(61,31) : results/result.log4303 
+area(61,32) : results/result.log4304 
+area(61,33) : results/result.log4305 
+area(61,34) : results/result.log4306 
+area(61,35) : results/result.log4307 
+area(61,36) : results/result.log4308 
+area(61,37) : results/result.log4309 
+area(61,38) : results/result.log4310 
+area(61,39) : results/result.log4311 
+area(61,40) : results/result.log4312 
+area(61,41) : results/result.log4313 
+area(61,42) : results/result.log4314 
+area(61,43) : results/result.log4315 
+area(61,44) : results/result.log4316 
+area(61,45) : results/result.log4317 
+area(61,46) : results/result.log4318 
+area(61,47) : results/result.log4319 
+area(61,48) : results/result.log4320 
+area(61,49) : results/result.log4321 
+area(61,50) : results/result.log4322 
+area(61,51) : results/result.log4323 
+area(61,52) : results/result.log4324 
+area(61,53) : results/result.log4325 
+area(61,54) : results/result.log4326 
+area(61,55) : results/result.log4327 
+area(61,56) : results/result.log4328 
+area(61,57) : results/result.log4329 
+area(61,58) : results/result.log4330 
+area(61,59) : results/result.log4331 
+area(61,60) : results/result.log4332 
+area(61,61) : results/result.log4333 
+area(61,62) : results/result.log4334 
+area(61,63) : results/result.log4335 
+area(61,64) : results/result.log4336 
+area(61,65) : results/result.log4337 
+area(61,66) : results/result.log4338 
+area(61,67) : results/result.log4339 
+area(61,68) : results/result.log4340 
+area(61,69) : results/result.log4341 
+area(62,0) : results/result.log4342 
+area(62,1) : results/result.log4343 
+area(62,2) : results/result.log4344 
+area(62,3) : results/result.log4345 
+area(62,4) : results/result.log4346 
+area(62,5) : results/result.log4347 
+area(62,6) : results/result.log4348 
+area(62,7) : results/result.log4349 
+area(62,8) : results/result.log4350 
+area(62,9) : results/result.log4351 
+area(62,10) : results/result.log4352 
+area(62,11) : results/result.log4353 
+area(62,12) : results/result.log4354 
+area(62,13) : results/result.log4355 
+area(62,14) : results/result.log4356 
+area(62,15) : results/result.log4357 
+area(62,16) : results/result.log4358 
+area(62,17) : results/result.log4359 
+area(62,18) : results/result.log4360 
+area(62,19) : results/result.log4361 
+area(62,20) : results/result.log4362 
+area(62,21) : results/result.log4363 
+area(62,22) : results/result.log4364 
+area(62,23) : results/result.log4365 
+area(62,24) : results/result.log4366 
+area(62,25) : results/result.log4367 
+area(62,26) : results/result.log4368 
+area(62,27) : results/result.log4369 
+area(62,28) : results/result.log4370 
+area(62,29) : results/result.log4371 
+area(62,30) : results/result.log4372 
+area(62,31) : results/result.log4373 
+area(62,32) : results/result.log4374 
+area(62,33) : results/result.log4375 
+area(62,34) : results/result.log4376 
+area(62,35) : results/result.log4377 
+area(62,36) : results/result.log4378 
+area(62,37) : results/result.log4379 
+area(62,38) : results/result.log4380 
+area(62,39) : results/result.log4381 
+area(62,40) : results/result.log4382 
+area(62,41) : results/result.log4383 
+area(62,42) : results/result.log4384 
+area(62,43) : results/result.log4385 
+area(62,44) : results/result.log4386 
+area(62,45) : results/result.log4387 
+area(62,46) : results/result.log4388 
+area(62,47) : results/result.log4389 
+area(62,48) : results/result.log4390 
+area(62,49) : results/result.log4391 
+area(62,50) : results/result.log4392 
+area(62,51) : results/result.log4393 
+area(62,52) : results/result.log4394 
+area(62,53) : results/result.log4395 
+area(62,54) : results/result.log4396 
+area(62,55) : results/result.log4397 
+area(62,56) : results/result.log4398 
+area(62,57) : results/result.log4399 
+area(62,58) : results/result.log4400 
+area(62,59) : results/result.log4401 
+area(62,60) : results/result.log4402 
+area(62,61) : results/result.log4403 
+area(62,62) : results/result.log4404 
+area(62,63) : results/result.log4405 
+area(62,64) : results/result.log4406 
+area(62,65) : results/result.log4407 
+area(62,66) : results/result.log4408 
+area(62,67) : results/result.log4409 
+area(62,68) : results/result.log4410 
+area(62,69) : results/result.log4411 
+area(63,0) : results/result.log4412 
+area(63,1) : results/result.log4413 
+area(63,2) : results/result.log4414 
+area(63,3) : results/result.log4415 
+area(63,4) : results/result.log4416 
+area(63,5) : results/result.log4417 
+area(63,6) : results/result.log4418 
+area(63,7) : results/result.log4419 
+area(63,8) : results/result.log4420 
+area(63,9) : results/result.log4421 
+area(63,10) : results/result.log4422 
+area(63,11) : results/result.log4423 
+area(63,12) : results/result.log4424 
+area(63,13) : results/result.log4425 
+area(63,14) : results/result.log4426 
+area(63,15) : results/result.log4427 
+area(63,16) : results/result.log4428 
+area(63,17) : results/result.log4429 
+area(63,18) : results/result.log4430 
+area(63,19) : results/result.log4431 
+area(63,20) : results/result.log4432 
+area(63,21) : results/result.log4433 
+area(63,22) : results/result.log4434 
+area(63,23) : results/result.log4435 
+area(63,24) : results/result.log4436 
+area(63,25) : results/result.log4437 
+area(63,26) : results/result.log4438 
+area(63,27) : results/result.log4439 
+area(63,28) : results/result.log4440 
+area(63,29) : results/result.log4441 
+area(63,30) : results/result.log4442 
+area(63,31) : results/result.log4443 
+area(63,32) : results/result.log4444 
+area(63,33) : results/result.log4445 
+area(63,34) : results/result.log4446 
+area(63,35) : results/result.log4447 
+area(63,36) : results/result.log4448 
+area(63,37) : results/result.log4449 
+area(63,38) : results/result.log4450 
+area(63,39) : results/result.log4451 
+area(63,40) : results/result.log4452 
+area(63,41) : results/result.log4453 
+area(63,42) : results/result.log4454 
+area(63,43) : results/result.log4455 
+area(63,44) : results/result.log4456 
+area(63,45) : results/result.log4457 
+area(63,46) : results/result.log4458 
+area(63,47) : results/result.log4459 
+area(63,48) : results/result.log4460 
+area(63,49) : results/result.log4461 
+area(63,50) : results/result.log4462 
+area(63,51) : results/result.log4463 
+area(63,52) : results/result.log4464 
+area(63,53) : results/result.log4465 
+area(63,54) : results/result.log4466 
+area(63,55) : results/result.log4467 
+area(63,56) : results/result.log4468 
+area(63,57) : results/result.log4469 
+area(63,58) : results/result.log4470 
+area(63,59) : results/result.log4471 
+area(63,60) : results/result.log4472 
+area(63,61) : results/result.log4473 
+area(63,62) : results/result.log4474 
+area(63,63) : results/result.log4475 
+area(63,64) : results/result.log4476 
+area(63,65) : results/result.log4477 
+area(63,66) : results/result.log4478 
+area(63,67) : results/result.log4479 
+area(63,68) : results/result.log4480 
+area(63,69) : results/result.log4481 
+area(64,0) : results/result.log4482 
+area(64,1) : results/result.log4483 
+area(64,2) : results/result.log4484 
+area(64,3) : results/result.log4485 
+area(64,4) : results/result.log4486 
+area(64,5) : results/result.log4487 
+area(64,6) : results/result.log4488 
+area(64,7) : results/result.log4489 
+area(64,8) : results/result.log4490 
+area(64,9) : results/result.log4491 
+area(64,10) : results/result.log4492 
+area(64,11) : results/result.log4493 
+area(64,12) : results/result.log4494 
+area(64,13) : results/result.log4495 
+area(64,14) : results/result.log4496 
+area(64,15) : results/result.log4497 
+area(64,16) : results/result.log4498 
+area(64,17) : results/result.log4499 
+area(64,18) : results/result.log4500 
+area(64,19) : results/result.log4501 
+area(64,20) : results/result.log4502 
+area(64,21) : results/result.log4503 
+area(64,22) : results/result.log4504 
+area(64,23) : results/result.log4505 
+area(64,24) : results/result.log4506 
+area(64,25) : results/result.log4507 
+area(64,26) : results/result.log4508 
+area(64,27) : results/result.log4509 
+area(64,28) : results/result.log4510 
+area(64,29) : results/result.log4511 
+area(64,30) : results/result.log4512 
+area(64,31) : results/result.log4513 
+area(64,32) : results/result.log4514 
+area(64,33) : results/result.log4515 
+area(64,34) : results/result.log4516 
+area(64,35) : results/result.log4517 
+area(64,36) : results/result.log4518 
+area(64,37) : results/result.log4519 
+area(64,38) : results/result.log4520 
+area(64,39) : results/result.log4521 
+area(64,40) : results/result.log4522 
+area(64,41) : results/result.log4523 
+area(64,42) : results/result.log4524 
+area(64,43) : results/result.log4525 
+area(64,44) : results/result.log4526 
+area(64,45) : results/result.log4527 
+area(64,46) : results/result.log4528 
+area(64,47) : results/result.log4529 
+area(64,48) : results/result.log4530 
+area(64,49) : results/result.log4531 
+area(64,50) : results/result.log4532 
+area(64,51) : results/result.log4533 
+area(64,52) : results/result.log4534 
+area(64,53) : results/result.log4535 
+area(64,54) : results/result.log4536 
+area(64,55) : results/result.log4537 
+area(64,56) : results/result.log4538 
+area(64,57) : results/result.log4539 
+area(64,58) : results/result.log4540 
+area(64,59) : results/result.log4541 
+area(64,60) : results/result.log4542 
+area(64,61) : results/result.log4543 
+area(64,62) : results/result.log4544 
+area(64,63) : results/result.log4545 
+area(64,64) : results/result.log4546 
+area(64,65) : results/result.log4547 
+area(64,66) : results/result.log4548 
+area(64,67) : results/result.log4549 
+area(64,68) : results/result.log4550 
+area(64,69) : results/result.log4551 
+area(65,0) : results/result.log4552 
+area(65,1) : results/result.log4553 
+area(65,2) : results/result.log4554 
+area(65,3) : results/result.log4555 
+area(65,4) : results/result.log4556 
+area(65,5) : results/result.log4557 
+area(65,6) : results/result.log4558 
+area(65,7) : results/result.log4559 
+area(65,8) : results/result.log4560 
+area(65,9) : results/result.log4561 
+area(65,10) : results/result.log4562 
+area(65,11) : results/result.log4563 
+area(65,12) : results/result.log4564 
+area(65,13) : results/result.log4565 
+area(65,14) : results/result.log4566 
+area(65,15) : results/result.log4567 
+area(65,16) : results/result.log4568 
+area(65,17) : results/result.log4569 
+area(65,18) : results/result.log4570 
+area(65,19) : results/result.log4571 
+area(65,20) : results/result.log4572 
+area(65,21) : results/result.log4573 
+area(65,22) : results/result.log4574 
+area(65,23) : results/result.log4575 
+area(65,24) : results/result.log4576 
+area(65,25) : results/result.log4577 
+area(65,26) : results/result.log4578 
+area(65,27) : results/result.log4579 
+area(65,28) : results/result.log4580 
+area(65,29) : results/result.log4581 
+area(65,30) : results/result.log4582 
+area(65,31) : results/result.log4583 
+area(65,32) : results/result.log4584 
+area(65,33) : results/result.log4585 
+area(65,34) : results/result.log4586 
+area(65,35) : results/result.log4587 
+area(65,36) : results/result.log4588 
+area(65,37) : results/result.log4589 
+area(65,38) : results/result.log4590 
+area(65,39) : results/result.log4591 
+area(65,40) : results/result.log4592 
+area(65,41) : results/result.log4593 
+area(65,42) : results/result.log4594 
+area(65,43) : results/result.log4595 
+area(65,44) : results/result.log4596 
+area(65,45) : results/result.log4597 
+area(65,46) : results/result.log4598 
+area(65,47) : results/result.log4599 
+area(65,48) : results/result.log4600 
+area(65,49) : results/result.log4601 
+area(65,50) : results/result.log4602 
+area(65,51) : results/result.log4603 
+area(65,52) : results/result.log4604 
+area(65,53) : results/result.log4605 
+area(65,54) : results/result.log4606 
+area(65,55) : results/result.log4607 
+area(65,56) : results/result.log4608 
+area(65,57) : results/result.log4609 
+area(65,58) : results/result.log4610 
+area(65,59) : results/result.log4611 
+area(65,60) : results/result.log4612 
+area(65,61) : results/result.log4613 
+area(65,62) : results/result.log4614 
+area(65,63) : results/result.log4615 
+area(65,64) : results/result.log4616 
+area(65,65) : results/result.log4617 
+area(65,66) : results/result.log4618 
+area(65,67) : results/result.log4619 
+area(65,68) : results/result.log4620 
+area(65,69) : results/result.log4621 
+area(66,0) : results/result.log4622 
+area(66,1) : results/result.log4623 
+area(66,2) : results/result.log4624 
+area(66,3) : results/result.log4625 
+area(66,4) : results/result.log4626 
+area(66,5) : results/result.log4627 
+area(66,6) : results/result.log4628 
+area(66,7) : results/result.log4629 
+area(66,8) : results/result.log4630 
+area(66,9) : results/result.log4631 
+area(66,10) : results/result.log4632 
+area(66,11) : results/result.log4633 
+area(66,12) : results/result.log4634 
+area(66,13) : results/result.log4635 
+area(66,14) : results/result.log4636 
+area(66,15) : results/result.log4637 
+area(66,16) : results/result.log4638 
+area(66,17) : results/result.log4639 
+area(66,18) : results/result.log4640 
+area(66,19) : results/result.log4641 
+area(66,20) : results/result.log4642 
+area(66,21) : results/result.log4643 
+area(66,22) : results/result.log4644 
+area(66,23) : results/result.log4645 
+area(66,24) : results/result.log4646 
+area(66,25) : results/result.log4647 
+area(66,26) : results/result.log4648 
+area(66,27) : results/result.log4649 
+area(66,28) : results/result.log4650 
+area(66,29) : results/result.log4651 
+area(66,30) : results/result.log4652 
+area(66,31) : results/result.log4653 
+area(66,32) : results/result.log4654 
+area(66,33) : results/result.log4655 
+area(66,34) : results/result.log4656 
+area(66,35) : results/result.log4657 
+area(66,36) : results/result.log4658 
+area(66,37) : results/result.log4659 
+area(66,38) : results/result.log4660 
+area(66,39) : results/result.log4661 
+area(66,40) : results/result.log4662 
+area(66,41) : results/result.log4663 
+area(66,42) : results/result.log4664 
+area(66,43) : results/result.log4665 
+area(66,44) : results/result.log4666 
+area(66,45) : results/result.log4667 
+area(66,46) : results/result.log4668 
+area(66,47) : results/result.log4669 
+area(66,48) : results/result.log4670 
+area(66,49) : results/result.log4671 
+area(66,50) : results/result.log4672 
+area(66,51) : results/result.log4673 
+area(66,52) : results/result.log4674 
+area(66,53) : results/result.log4675 
+area(66,54) : results/result.log4676 
+area(66,55) : results/result.log4677 
+area(66,56) : results/result.log4678 
+area(66,57) : results/result.log4679 
+area(66,58) : results/result.log4680 
+area(66,59) : results/result.log4681 
+area(66,60) : results/result.log4682 
+area(66,61) : results/result.log4683 
+area(66,62) : results/result.log4684 
+area(66,63) : results/result.log4685 
+area(66,64) : results/result.log4686 
+area(66,65) : results/result.log4687 
+area(66,66) : results/result.log4688 
+area(66,67) : results/result.log4689 
+area(66,68) : results/result.log4690 
+area(66,69) : results/result.log4691 
+area(67,0) : results/result.log4692 
+area(67,1) : results/result.log4693 
+area(67,2) : results/result.log4694 
+area(67,3) : results/result.log4695 
+area(67,4) : results/result.log4696 
+area(67,5) : results/result.log4697 
+area(67,6) : results/result.log4698 
+area(67,7) : results/result.log4699 
+area(67,8) : results/result.log4700 
+area(67,9) : results/result.log4701 
+area(67,10) : results/result.log4702 
+area(67,11) : results/result.log4703 
+area(67,12) : results/result.log4704 
+area(67,13) : results/result.log4705 
+area(67,14) : results/result.log4706 
+area(67,15) : results/result.log4707 
+area(67,16) : results/result.log4708 
+area(67,17) : results/result.log4709 
+area(67,18) : results/result.log4710 
+area(67,19) : results/result.log4711 
+area(67,20) : results/result.log4712 
+area(67,21) : results/result.log4713 
+area(67,22) : results/result.log4714 
+area(67,23) : results/result.log4715 
+area(67,24) : results/result.log4716 
+area(67,25) : results/result.log4717 
+area(67,26) : results/result.log4718 
+area(67,27) : results/result.log4719 
+area(67,28) : results/result.log4720 
+area(67,29) : results/result.log4721 
+area(67,30) : results/result.log4722 
+area(67,31) : results/result.log4723 
+area(67,32) : results/result.log4724 
+area(67,33) : results/result.log4725 
+area(67,34) : results/result.log4726 
+area(67,35) : results/result.log4727 
+area(67,36) : results/result.log4728 
+area(67,37) : results/result.log4729 
+area(67,38) : results/result.log4730 
+area(67,39) : results/result.log4731 
+area(67,40) : results/result.log4732 
+area(67,41) : results/result.log4733 
+area(67,42) : results/result.log4734 
+area(67,43) : results/result.log4735 
+area(67,44) : results/result.log4736 
+area(67,45) : results/result.log4737 
+area(67,46) : results/result.log4738 
+area(67,47) : results/result.log4739 
+area(67,48) : results/result.log4740 
+area(67,49) : results/result.log4741 
+area(67,50) : results/result.log4742 
+area(67,51) : results/result.log4743 
+area(67,52) : results/result.log4744 
+area(67,53) : results/result.log4745 
+area(67,54) : results/result.log4746 
+area(67,55) : results/result.log4747 
+area(67,56) : results/result.log4748 
+area(67,57) : results/result.log4749 
+area(67,58) : results/result.log4750 
+area(67,59) : results/result.log4751 
+area(67,60) : results/result.log4752 
+area(67,61) : results/result.log4753 
+area(67,62) : results/result.log4754 
+area(67,63) : results/result.log4755 
+area(67,64) : results/result.log4756 
+area(67,65) : results/result.log4757 
+area(67,66) : results/result.log4758 
+area(67,67) : results/result.log4759 
+area(67,68) : results/result.log4760 
+area(67,69) : results/result.log4761 
+area(68,0) : results/result.log4762 
+area(68,1) : results/result.log4763 
+area(68,2) : results/result.log4764 
+area(68,3) : results/result.log4765 
+area(68,4) : results/result.log4766 
+area(68,5) : results/result.log4767 
+area(68,6) : results/result.log4768 
+area(68,7) : results/result.log4769 
+area(68,8) : results/result.log4770 
+area(68,9) : results/result.log4771 
+area(68,10) : results/result.log4772 
+area(68,11) : results/result.log4773 
+area(68,12) : results/result.log4774 
+area(68,13) : results/result.log4775 
+area(68,14) : results/result.log4776 
+area(68,15) : results/result.log4777 
+area(68,16) : results/result.log4778 
+area(68,17) : results/result.log4779 
+area(68,18) : results/result.log4780 
+area(68,19) : results/result.log4781 
+area(68,20) : results/result.log4782 
+area(68,21) : results/result.log4783 
+area(68,22) : results/result.log4784 
+area(68,23) : results/result.log4785 
+area(68,24) : results/result.log4786 
+area(68,25) : results/result.log4787 
+area(68,26) : results/result.log4788 
+area(68,27) : results/result.log4789 
+area(68,28) : results/result.log4790 
+area(68,29) : results/result.log4791 
+area(68,30) : results/result.log4792 
+area(68,31) : results/result.log4793 
+area(68,32) : results/result.log4794 
+area(68,33) : results/result.log4795 
+area(68,34) : results/result.log4796 
+area(68,35) : results/result.log4797 
+area(68,36) : results/result.log4798 
+area(68,37) : results/result.log4799 
+area(68,38) : results/result.log4800 
+area(68,39) : results/result.log4801 
+area(68,40) : results/result.log4802 
+area(68,41) : results/result.log4803 
+area(68,42) : results/result.log4804 
+area(68,43) : results/result.log4805 
+area(68,44) : results/result.log4806 
+area(68,45) : results/result.log4807 
+area(68,46) : results/result.log4808 
+area(68,47) : results/result.log4809 
+area(68,48) : results/result.log4810 
+area(68,49) : results/result.log4811 
+area(68,50) : results/result.log4812 
+area(68,51) : results/result.log4813 
+area(68,52) : results/result.log4814 
+area(68,53) : results/result.log4815 
+area(68,54) : results/result.log4816 
+area(68,55) : results/result.log4817 
+area(68,56) : results/result.log4818 
+area(68,57) : results/result.log4819 
+area(68,58) : results/result.log4820 
+area(68,59) : results/result.log4821 
+area(68,60) : results/result.log4822 
+area(68,61) : results/result.log4823 
+area(68,62) : results/result.log4824 
+area(68,63) : results/result.log4825 
+area(68,64) : results/result.log4826 
+area(68,65) : results/result.log4827 
+area(68,66) : results/result.log4828 
+area(68,67) : results/result.log4829 
+area(68,68) : results/result.log4830 
+area(68,69) : results/result.log4831 
+area(69,0) : results/result.log4832 
+area(69,1) : results/result.log4833 
+area(69,2) : results/result.log4834 
+area(69,3) : results/result.log4835 
+area(69,4) : results/result.log4836 
+area(69,5) : results/result.log4837 
+area(69,6) : results/result.log4838 
+area(69,7) : results/result.log4839 
+area(69,8) : results/result.log4840 
+area(69,9) : results/result.log4841 
+area(69,10) : results/result.log4842 
+area(69,11) : results/result.log4843 
+area(69,12) : results/result.log4844 
+area(69,13) : results/result.log4845 
+area(69,14) : results/result.log4846 
+area(69,15) : results/result.log4847 
+area(69,16) : results/result.log4848 
+area(69,17) : results/result.log4849 
+area(69,18) : results/result.log4850 
+area(69,19) : results/result.log4851 
+area(69,20) : results/result.log4852 
+area(69,21) : results/result.log4853 
+area(69,22) : results/result.log4854 
+area(69,23) : results/result.log4855 
+area(69,24) : results/result.log4856 
+area(69,25) : results/result.log4857 
+area(69,26) : results/result.log4858 
+area(69,27) : results/result.log4859 
+area(69,28) : results/result.log4860 
+area(69,29) : results/result.log4861 
+area(69,30) : results/result.log4862 
+area(69,31) : results/result.log4863 
+area(69,32) : results/result.log4864 
+area(69,33) : results/result.log4865 
+area(69,34) : results/result.log4866 
+area(69,35) : results/result.log4867 
+area(69,36) : results/result.log4868 
+area(69,37) : results/result.log4869 
+area(69,38) : results/result.log4870 
+area(69,39) : results/result.log4871 
+area(69,40) : results/result.log4872 
+area(69,41) : results/result.log4873 
+area(69,42) : results/result.log4874 
+area(69,43) : results/result.log4875 
+area(69,44) : results/result.log4876 
+area(69,45) : results/result.log4877 
+area(69,46) : results/result.log4878 
+area(69,47) : results/result.log4879 
+area(69,48) : results/result.log4880 
+area(69,49) : results/result.log4881 
+area(69,50) : results/result.log4882 
+area(69,51) : results/result.log4883 
+area(69,52) : results/result.log4884 
+area(69,53) : results/result.log4885 
+area(69,54) : results/result.log4886 
+area(69,55) : results/result.log4887 
+area(69,56) : results/result.log4888 
+area(69,57) : results/result.log4889 
+area(69,58) : results/result.log4890 
+area(69,59) : results/result.log4891 
+area(69,60) : results/result.log4892 
+area(69,61) : results/result.log4893 
+area(69,62) : results/result.log4894 
+area(69,63) : results/result.log4895 
+area(69,64) : results/result.log4896 
+area(69,65) : results/result.log4897 
+area(69,66) : results/result.log4898 
+area(69,67) : results/result.log4899 
+area(69,68) : results/result.log4900 
+area(69,69) : results/result.log4901 

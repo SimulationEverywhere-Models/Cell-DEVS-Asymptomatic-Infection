@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Models>
+	<Model name="SIAR model" type="atomic" description="Susceptible-Infected-Asymptomatic-Recovered Disease Spread Model">
+		<Outputs>
+			<Port name="initial" type="integer" description="the initial value for the model"/>
+		</Outputs>
+		<Outputs>
+			<Port name="infec" type="float" description="the proportion of people that are infected with COVID-19 in a cell"/>
+		</Outputs>
+		<Outputs>
+			<Port name="rec" type="float" description="the proportion of people that are recovered from COVID-19 in a cell"/>
+		</Outputs>
+		<Outputs>
+			<Port name="pop" type="float" description="the population in a cell"/>
+		</Outputs>
+		<Outputs>
+			<Port name="sus" type="float" description="the proportion of people that are susceptible to COVID-19 in a cell"/>
+		</Outputs>
+		<Outputs>
+			<Port name="infec_a" type="float" description="the proportion of people that are infected with asymptomatic COVID-19 in a cell"/>
+		</Outputs>
+		<Outputs>
+			<Port name="infec_show" type="float" description="the proportion of people that are infected with symptomatic COVID-19 in a cell"/>
+		</Outputs>
+		<Files>
+			<File name="siar_roman_moore.ma" type="ma" location="/epidemic_siar"/>
+		</Files>
+	</Model>
+</Models>
